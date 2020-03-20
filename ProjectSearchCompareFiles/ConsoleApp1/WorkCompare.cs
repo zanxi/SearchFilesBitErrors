@@ -28,24 +28,27 @@ namespace ProjectSearchCompareFiles
 
         public bool CompareFilesByte(out int numByteWithBitErrors, string file1, string file2)
         {
-            numByteWithBitErrors = 0;            
-            using (var fs1 = new FileStream(file1, FileMode.Open))
-            using (var fs2 = new FileStream(file2, FileMode.Open))
+            lock (XmlLocker)
             {
-                if (fs1.Length != fs2.Length) return false;
-                int b1, b2;
-                int colBytes = 0;
-                do
+                numByteWithBitErrors = 0;
+                using (var fs1 = new FileStream(file1, FileMode.Open))
+                using (var fs2 = new FileStream(file2, FileMode.Open))
                 {
-                    b1 = fs1.ReadByte();
-                    b2 = fs2.ReadByte();
-                    if (Compare2Byte((byte)b1, (byte)b2) > 1) return false;
-                    else
+                    if (fs1.Length != fs2.Length) return false;
+                    int b1, b2;
+                    int colBytes = 0;
+                    do
                     {
-                        numByteWithBitErrors++;
-                    }                                        
+                        b1 = fs1.ReadByte();
+                        b2 = fs2.ReadByte();
+                        if (Compare2Byte((byte)b1, (byte)b2) > 1) return false;
+                        else
+                        {
+                            numByteWithBitErrors++;
+                        }
+                    }
+                    while (b1 >= 0);
                 }
-                while (b1 >= 0);
             }
             return true;
         }
@@ -63,9 +66,11 @@ namespace ProjectSearchCompareFiles
 
         public bool CompareFilesWithHash(string file1, string file2)
         {
-            var str1 = HashFile(file1);
-            var str2 = HashFile(file2);
-            return str1 == str2;
+            lock (XmlLocker) {
+                var str1 = HashFile(file1);
+                var str2 = HashFile(file2);
+                return str1 == str2;
+            }
         }
 
         private bool FindTextInFile(string match, string pathFile)
@@ -74,24 +79,29 @@ namespace ProjectSearchCompareFiles
             if(text2.ToLower().IndexOf(match.ToLower())>0) return true;            
             return false;
         }
-                
+        static object XmlLocker =new object();
+
         public void SavetoFile(InfoResultSearchFile iresult)
         {
             //DateTime tm = DateTime.Now;
             //string rndStr = "";//Path.GetRandomFileName();            
-            string fileNameData = Util.fn;
-            XDocument xd = File.Exists(fileNameData) ? XDocument.Load(fileNameData) :
-                                                new XDocument(new XElement("table"));
-            xd.Root.Add(new XElement("records",
-                // измерение оcновным блоком                 
-                new XElement("data", "data", new XAttribute("fileName", iresult.fileName),
-                                             new XAttribute("fileNameCompare", iresult.fileNameCompare),
-                                             new XAttribute("CompareCharacterize", iresult.CompareCharacterize),
-                                             new XAttribute("Size", iresult.Size.ToString()),
-                                             new XAttribute("Date", iresult.Date.ToString()), 
-                                             new XAttribute("BitError", iresult.BitError))
-                ));
-            xd.Save(fileNameData);
+
+            lock (XmlLocker)
+            {
+                string fileNameData = Util.fn;
+                XDocument xd = File.Exists(fileNameData) ? XDocument.Load(fileNameData) :
+                                                    new XDocument(new XElement("table"));
+                xd.Root.Add(new XElement("records",
+                    // измерение оcновным блоком                 
+                    new XElement("data", "data", new XAttribute("fileName", iresult.fileName),
+                                                 new XAttribute("fileNameCompare", iresult.fileNameCompare),
+                                                 new XAttribute("CompareCharacterize", iresult.CompareCharacterize),
+                                                 new XAttribute("Size", iresult.Size.ToString()),
+                                                 new XAttribute("Date", iresult.Date.ToString()),
+                                                 new XAttribute("BitError", iresult.BitError))
+                    ));
+                xd.Save(fileNameData);
+            }
         }
 
         unsafe bool EqualBytesLongUnrolled(byte[] data1, byte[] data2)

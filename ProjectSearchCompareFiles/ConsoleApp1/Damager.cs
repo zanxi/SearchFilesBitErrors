@@ -40,7 +40,15 @@ namespace ProjectSearchCompareFiles
                 responses.TryDequeue(out iresult);
                 if(iresult != null)
                 {
-                    if (iresult.Size > 3000 && iresult.Size < 4000) ;
+                    try
+                    {
+                        //if (iresult.Size > 3000 && iresult.Size < 4000) ;
+                        //SavetoFile(iresult);
+                    }
+                    catch (Exception err)
+                    {
+                        Util.errorMessage(err.Message, iresult.fileName_brief);
+                    }
                 }
 
             }
@@ -56,19 +64,22 @@ namespace ProjectSearchCompareFiles
             responses.Enqueue(iresult);
         }
 
-        
+
         public void SavetoFile(InfoResultSearchFile iresult)
         {
             //DateTime tm = DateTime.Now;
             //string rndStr = "";//Path.GetRandomFileName();            
-            string fileNameData = ProjectSearchCompareFiles.Util.fn_CheckSearck;
+            string fileNameData = Util.fn;
             XDocument xd = File.Exists(fileNameData) ? XDocument.Load(fileNameData) :
                                                 new XDocument(new XElement("table"));
             xd.Root.Add(new XElement("records",
                 // измерение оcновным блоком                 
-                new XElement("data", "data", new XAttribute("CompareCharacterize", iresult.CompareCharacterize),
+                new XElement("data", "data", new XAttribute("fileName", iresult.fileName),
+                                             new XAttribute("fileNameCompare", iresult.fileNameCompare),
+                                             new XAttribute("CompareCharacterize", iresult.CompareCharacterize),
                                              new XAttribute("Size", iresult.Size.ToString()),
-                                             new XAttribute("Date", iresult.Date.ToString()))
+                                             new XAttribute("Date", iresult.Date.ToString()),
+                                             new XAttribute("BitError", iresult.BitError))
                 ));
             xd.Save(fileNameData);
         }
