@@ -60,7 +60,7 @@ namespace ProjectSearchCompareFiles
                         iresult.BitError = (!bitErr) ? "0": _numByteWithBitErrors.ToString();
                         iresult.Date = DateTime.Now;
 
-                        if (iresult.Size > 30000 && iresult.Size < 40000)
+                        //if (iresult.Size > 30000 && iresult.Size < 40000)
                             //Util.message("[" + nameWorker + "] -- " +
                             Util.message(
                             iresult.fileName_brief+" | "+

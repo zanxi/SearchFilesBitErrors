@@ -3,3 +3,9 @@ D:\_V2020_\_Rabota_2020__\_Lanit____\ProjectSearchCompareFiles\ConsoleApp1\bin\D
 D:\_V2020_\_Rabota_2020__\_Lanit____\ProjectSearchCompareFiles\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
 D:\_V2020_\_Rabota_2020__\_Lanit____\ProjectSearchCompareFiles\ConsoleApp1\obj\Debug\ConsoleApp1.exe
 D:\_V2020_\_Rabota_2020__\_Lanit____\ProjectSearchCompareFiles\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+D:\_V2020_\_github___\SearchFilesBitDefect\ProjectSearchCompareFiles\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+D:\_V2020_\_github___\SearchFilesBitDefect\ProjectSearchCompareFiles\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+D:\_V2020_\_github___\SearchFilesBitDefect\ProjectSearchCompareFiles\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+D:\_V2020_\_github___\SearchFilesBitDefect\ProjectSearchCompareFiles\ConsoleApp1\obj\Debug\ProjectSearchCompareFiles.csprojAssemblyReference.cache
+D:\_V2020_\_github___\SearchFilesBitDefect\ProjectSearchCompareFiles\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+D:\_V2020_\_github___\SearchFilesBitDefect\ProjectSearchCompareFiles\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
