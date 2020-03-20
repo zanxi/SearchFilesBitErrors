@@ -1,0 +1,670 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<table>
+  <records></records>
+  <records>
+    <data fileName="D:\_V2020_\_Rabota_2020__\_Lanit____\data__\Dgd\81\SB_DGD_DLL.dll" fileNameCompare="D:\_V2020_\_Rabota_2020__\_Lanit____\info_lanit_2020_03_14__.txt" CompareCharacterize="--fulling-- compare | hash equal | byte equal | " Size="167936" Date="20.03.2020 17:11:53" BitError="0">data</data>
+  </records>
+  <records>
+    <data fileName="D:\_V2020_\_Rabota_2020__\_Lanit____\data__\UfdApi\UfdApi_X3\UfdApi_X3.dll" fileNameCompare="D:\_V2020_\_Rabota_2020__\_Lanit____\info_lanit_2020_03_14__.txt" CompareCharacterize="--fulling-- compare | hash equal | byte equal | " Size="1396736" Date="20.03.2020 17:11:53" BitError="0">data</data>
+  </records>
+  <records>
+    <data fileName="D:\_V2020_\_Rabota_2020__\_Lanit____\data__\Каталоги уровня 3\ALCOR_U2_MP_v19.01.24.00\DLL\EccParamFile.Dll" fileNameCompare="D:\_V2020_\_Rabota_2020__\_Lanit____\info_lanit_2020_03_14__.txt" CompareCharacterize="--fulling-- compare | hash equal | byte equal | " Size="193536" Date="20.03.2020 17:11:53" BitError="0">data</data>
+  </records>
+  <records>
+    <data fileName="D:\_V2020_\_Rabota_2020__\_Lanit____\data__\Каталоги уровня 3\ALCOR_U2_MP_v19.03.19.00_8T23 9T23\DLL\EccParamFile.Dll" fileNameCompare="D:\_V2020_\_Rabota_2020__\_Lanit____\info_lanit_2020_03_14__.txt" CompareCharacterize="--fulling-- compare | hash equal | byte equal | " Size="193536" Date="20.03.2020 17:11:53" BitError="0">data</data>
+  </records>
+  <records>
+    <data fileName="D:\_V2020_\_Rabota_2020__\_Lanit____\data__\Каталоги уровня 3\ALCOR_U2_MP_v19.04.01.00\DLL\SETUP_DLL.dll" fileNameCompare="D:\_V2020_\_Rabota_2020__\_Lanit____\info_lanit_2020_03_14__.txt" CompareCharacterize="--fulling-- compare | hash equal | byte equal | " Size="237568" Date="20.03.2020 17:11:53" BitError="0">data</data>
+  </records>
+  <records>
+    <data fileName="D:\_V2020_\_Rabota_2020__\_Lanit____\data__\Каталоги уровня 3\ALCOR_U2_MP_v19.07.03.00\DLL\EccParamFile.Dll" fileNameCompare="D:\_V2020_\_Rabota_2020__\_Lanit____\info_lanit_2020_03_14__.txt" CompareCharacterize="--fulling-- compare | hash equal | byte equal | " Size="193536" Date="20.03.2020 17:11:53" BitError="0">data</data>
+  </records>
+  <records>
+    <data fileName="D:\_V2020_\_Rabota_2020__\_Lanit____\data__\CTL\10\BIN\10_17_SD128P16K (2).BIN" fileNameCompare="D:\_V2020_\_Rabota_2020__\_Lanit____\info_lanit_2020_03_14__.txt" CompareCharacterize="--fulling-- compare | hash equal | byte equal | " Size="43518" Date="20.03.2020 17:12:03" BitError="0">data</data>
+  </records>
+  <records>
+    <data fileName="D:\_V2020_\_Rabota_2020__\_Lanit____\data__\CTL\10\BIN\10_58_THS8K.BIN" fileNameCompare="D:\_V2020_\_Rabota_2020__\_Lanit____\info_lanit_2020_03_14__.txt" CompareCharacterize="--fulling-- compare | hash equal | byte equal | " Size="30462" Date="20.03.2020 17:12:03" BitError="0">data</data>
+  </records>
+  <records>
+    <data fileName="D:\_V2020_\_Rabota_2020__\_Lanit____\data__\CTL\10\BIN\10_8C_TOS_TLC_SZ.bin" fileNameCompare="D:\_V2020_\_Rabota_2020__\_Lanit____\info_lanit_2020_03_14__.txt" CompareCharacterize="--fulling-- compare | hash equal | byte equal | " Size="39166" Date="20.03.2020 17:12:03" BitError="0">data</data>
+  </records>
+  <records>
+    <data fileName="D:\_V2020_\_Rabota_2020__\_Lanit____\data__\CTL\10\BIN\10_94_L85_SDP.BIN" fileNameCompare="D:\_V2020_\_Rabota_2020__\_Lanit____\info_lanit_2020_03_14__.txt" CompareCharacterize="--fulling-- compare | hash equal | byte equal | " Size="43518" Date="20.03.2020 17:12:03" BitError="0">data</data>
+  </records>
+  <records>
+    <data fileName="D:\_V2020_\_Rabota_2020__\_Lanit____\data__\CTL\10\DGD_BIN\10_4K_0C.bin" fileNameCompare="D:\_V2020_\_Rabota_2020__\_Lanit____\info_lanit_2020_03_14__.txt" CompareCharacterize="--fulling-- compare | hash equal | byte equal | " Size="30462" Date="20.03.2020 17:12:03" BitError="0">data</data>
+  </records>
+  <records>
+    <data fileName="D:\_V2020_\_Rabota_2020__\_Lanit____\data__\CTL\10\DGD_BIN\10_8K_UBG20_04.BIN" fileNameCompare="D:\_V2020_\_Rabota_2020__\_Lanit____\info_lanit_2020_03_14__.txt" CompareCharacterize="--fulling-- compare | hash equal | byte equal | " Size="39166" Date="20.03.2020 17:12:03" BitError="0">data</data>
+  </records>
+  <records>
+    <data fileName="D:\_V2020_\_Rabota_2020__\_Lanit____\data__\CTL\10\DGD_BIN\98_16K_512_L85_0C.bin" fileNameCompare="D:\_V2020_\_Rabota_2020__\_Lanit____\info_lanit_2020_03_14__.txt" CompareCharacterize="--fulling-- compare | hash equal | byte equal | " Size="39166" Date="20.03.2020 17:12:03" BitError="0">data</data>
+  </records>
+  <records>
+    <data fileName="D:\_V2020_\_Rabota_2020__\_Lanit____\data__\CTL\10\DGD_BIN_OLD\10_16K_UEG16_B_04 (2).bin" fileNameCompare="D:\_V2020_\_Rabota_2020__\_Lanit____\info_lanit_2020_03_14__.txt" CompareCharacterize="--fulling-- compare | hash equal | byte equal | " Size="43518" Date="20.03.2020 17:12:03" BitError="0">data</data>
+  </records>
+  <records>
+    <data fileName="D:\_V2020_\_Rabota_2020__\_Lanit____\data__\CTL\10\SCAN_BIN\10_LB_BCT (2).BIN" fileNameCompare="D:\_V2020_\_Rabota_2020__\_Lanit____\info_lanit_2020_03_14__.txt" CompareCharacterize="--fulling-- compare | hash equal | byte equal | " Size="26110" Date="20.03.2020 17:12:03" BitError="0">data</data>
+  </records>
+  <records>
+    <data fileName="D:\_V2020_\_Rabota_2020__\_Lanit____\data__\CTL\10\SCAN_BIN\10_S19_TLC_LLF.BIN" fileNameCompare="D:\_V2020_\_Rabota_2020__\_Lanit____\info_lanit_2020_03_14__.txt" CompareCharacterize="--fulling-- compare | hash equal | byte equal | " Size="26110" Date="20.03.2020 17:12:03" BitError="0">data</data>
+  </records>
+  <records>
+    <data fileName="D:\_V2020_\_Rabota_2020__\_Lanit____\data__\CTL\10\SCAN_BIN\17_TOS24_eD3.BIN" fileNameCompare="D:\_V2020_\_Rabota_2020__\_Lanit____\info_lanit_2020_03_14__.txt" CompareCharacterize="--fulling-- compare | hash equal | byte equal | " Size="26110" Date="20.03.2020 17:12:03" BitError="0">data</data>
+  </records>
+  <records>
+    <data fileName="D:\_V2020_\_Rabota_2020__\_Lanit____\data__\CTL\13\DGD_BIN\13_TOS32T_X3_0C.bin" fileNameCompare="D:\_V2020_\_Rabota_2020__\_Lanit____\info_lanit_2020_03_14__.txt" CompareCharacterize="--fulling-- compare | hash equal | byte equal | " Size="34814" Date="20.03.2020 17:12:03" BitError="0">data</data>
+  </records>
+  <records>
+    <data fileName="D:\_V2020_\_Rabota_2020__\_Lanit____\data__\CTL\28\BIN\28_21_K9GBG_C.BIN" fileNameCompare="D:\_V2020_\_Rabota_2020__\_Lanit____\info_lanit_2020_03_14__.txt" CompareCharacterize="--fulling-- compare | hash equal | byte equal | " Size="69630" Date="20.03.2020 17:12:03" BitError="0">data</data>
+  </records>
+  <records>
+    <data fileName="D:\_V2020_\_Rabota_2020__\_Lanit____\data__\CTL\28\BIN\28_2B_TH_MLC256P_SP (2).BIN" fileNameCompare="D:\_V2020_\_Rabota_2020__\_Lanit____\info_lanit_2020_03_14__.txt" CompareCharacterize="--fulling-- compare | hash equal | byte equal | " Size="69630" Date="20.03.2020 17:12:03" BitError="0">data</data>
+  </records>
+  <records>
+    <data fileName="D:\_V2020_\_Rabota_2020__\_Lanit____\data__\CTL\28\BIN\28_35_K9GBG.BIN" fileNameCompare="D:\_V2020_\_Rabota_2020__\_Lanit____\info_lanit_2020_03_14__.txt" CompareCharacterize="--fulling-- compare | hash equal | byte equal | " Size="69631" Date="20.03.2020 17:12:03" BitError="0">data</data>
+  </records>
+  <records>
+    <data fileName="D:\_V2020_\_Rabota_2020__\_Lanit____\data__\CTL\28\BIN\28_4E_14nm_Hy_TLC.BIN" fileNameCompare="D:\_V2020_\_Rabota_2020__\_Lanit____\info_lanit_2020_03_14__.txt" CompareCharacterize="--fulling-- compare | hash equal | byte equal | " Size="69630" Date="20.03.2020 17:12:03" BitError="0">data</data>
+  </records>
+  <records>
+    <data fileName="D:\_V2020_\_Rabota_2020__\_Lanit____\data__\CTL\28\BIN\28_7B_14nm_K9ADG_F.BIN" fileNameCompare="D:\_V2020_\_Rabota_2020__\_Lanit____\info_lanit_2020_03_14__.txt" CompareCharacterize="--fulling-- compare | hash equal | byte equal | " Size="69631" Date="20.03.2020 17:12:03" BitError="0">data</data>
+  </records>
+  <records>
+    <data fileName="D:\_V2020_\_Rabota_2020__\_Lanit____\data__\CTL\28\BIN\28_85_L74DDP.BIN" fileNameCompare="D:\_V2020_\_Rabota_2020__\_Lanit____\info_lanit_2020_03_14__.txt" CompareCharacterize="--fulling-- compare | hash equal | byte equal | " Size="69630" Date="20.03.2020 17:12:03" BitError="0">data</data>
+  </records>
+  <records>
+    <data fileName="D:\_V2020_\_Rabota_2020__\_Lanit____\data__\CTL\28\BIN\28_A0_B0KB_TP.BIN" fileNameCompare="D:\_V2020_\_Rabota_2020__\_Lanit____\info_lanit_2020_03_14__.txt" CompareCharacterize="--fulling-- compare | hash equal | byte equal | " Size="69631" Date="20.03.2020 17:12:03" BitError="0">data</data>
+  </records>
+  <records>
+    <data fileName="D:\_V2020_\_Rabota_2020__\_Lanit____\data__\CTL\28\DGD_BIN\28_16K_TOS19M (2).bin" fileNameCompare="D:\_V2020_\_Rabota_2020__\_Lanit____\info_lanit_2020_03_14__.txt" CompareCharacterize="--fulling-- compare | hash equal | byte equal | " Size="95742" Date="20.03.2020 17:12:03" BitError="0">data</data>
+  </records>
+  <records>
+    <data fileName="D:\_V2020_\_Rabota_2020__\_Lanit____\data__\CTL\28\DGD_BIN\28_HY20M_MW.BIN" fileNameCompare="D:\_V2020_\_Rabota_2020__\_Lanit____\info_lanit_2020_03_14__.txt" CompareCharacterize="--fulling-- compare | hash equal | byte equal | " Size="95742" Date="20.03.2020 17:12:03" BitError="0">data</data>
+  </records>
+  <records>
+    <data fileName="D:\_V2020_\_Rabota_2020__\_Lanit____\data__\CTL\28\DGD_BIN\28_S19M_A_04.bin" fileNameCompare="D:\_V2020_\_Rabota_2020__\_Lanit____\info_lanit_2020_03_14__.txt" CompareCharacterize="--fulling-- compare | hash equal | byte equal | " Size="95742" Date="20.03.2020 17:12:03" BitError="0">data</data>
+  </records>
+  <records>
+    <data fileName="D:\_V2020_\_Rabota_2020__\_Lanit____\data__\CTL\28\DGD_BIN\28_S21M.BIN" fileNameCompare="D:\_V2020_\_Rabota_2020__\_Lanit____\info_lanit_2020_03_14__.txt" CompareCharacterize="--fulling-- compare | hash equal | byte equal | " Size="95743" Date="20.03.2020 17:12:03" BitError="0">data</data>
+  </records>
+  <records>
+    <data fileName="D:\_V2020_\_Rabota_2020__\_Lanit____\data__\CTL\28\DGD_BIN\28_SD15M (2).BIN" fileNameCompare="D:\_V2020_\_Rabota_2020__\_Lanit____\info_lanit_2020_03_14__.txt" CompareCharacterize="--fulling-- compare | hash equal | byte equal | " Size="95742" Date="20.03.2020 17:12:03" BitError="0">data</data>
+  </records>
+  <records>
+    <data fileName="D:\_V2020_\_Rabota_2020__\_Lanit____\data__\CTL\28\DGD_BIN\28_TOS15T_eD3_04_ST.bin" fileNameCompare="D:\_V2020_\_Rabota_2020__\_Lanit____\info_lanit_2020_03_14__.txt" CompareCharacterize="--fulling-- compare | hash equal | byte equal | " Size="95742" Date="20.03.2020 17:12:03" BitError="0">data</data>
+  </records>
+  <records>
+    <data fileName="D:\_V2020_\_Rabota_2020__\_Lanit____\data__\CTL\28\DGD_BIN\28_TOS24TH_eD3_04_ST.bin" fileNameCompare="D:\_V2020_\_Rabota_2020__\_Lanit____\info_lanit_2020_03_14__.txt" CompareCharacterize="--fulling-- compare | hash equal | byte equal | " Size="95742" Date="20.03.2020 17:12:03" BitError="0">data</data>
+  </records>
+  <records>
+    <data fileName="D:\_V2020_\_Rabota_2020__\_Lanit____\data__\CTL\28\DGD_BIN\28_TOS32T_X3_A_0C.bin" fileNameCompare="D:\_V2020_\_Rabota_2020__\_Lanit____\info_lanit_2020_03_14__.txt" CompareCharacterize="--fulling-- compare | hash equal | byte equal | " Size="95742" Date="20.03.2020 17:12:03" BitError="0">data</data>
+  </records>
+  <records>
+    <data fileName="D:\_V2020_\_Rabota_2020__\_Lanit____\data__\CTL\28\DGD_BIN\30_SD19MX (2).BIN" fileNameCompare="D:\_V2020_\_Rabota_2020__\_Lanit____\info_lanit_2020_03_14__.txt" CompareCharacterize="--fulling-- compare | hash equal | byte equal | " Size="95742" Date="20.03.2020 17:12:03" BitError="0">data</data>
+  </records>
+  <records>
+    <data fileName="D:\_V2020_\_Rabota_2020__\_Lanit____\data__\CTL\28\DGD_BIN\36_B27B_CB.BIN" fileNameCompare="D:\_V2020_\_Rabota_2020__\_Lanit____\info_lanit_2020_03_14__.txt" CompareCharacterize="--fulling-- compare | hash equal | byte equal | " Size="113150" Date="20.03.2020 17:12:03" BitError="0">data</data>
+  </records>
+  <records>
+    <data fileName="D:\_V2020_\_Rabota_2020__\_Lanit____\data__\CTL\28\DGD_BIN\36_HY3DM0.BIN" fileNameCompare="D:\_V2020_\_Rabota_2020__\_Lanit____\info_lanit_2020_03_14__.txt" CompareCharacterize="--fulling-- compare | hash equal | byte equal | " Size="95743" Date="20.03.2020 17:12:03" BitError="0">data</data>
+  </records>
+  <records>
+    <data fileName="D:\_V2020_\_Rabota_2020__\_Lanit____\data__\CTL\28\DGD_BIN_OLD\28_16K_UCG20_CB.bin" fileNameCompare="D:\_V2020_\_Rabota_2020__\_Lanit____\info_lanit_2020_03_14__.txt" CompareCharacterize="--fulling-- compare | hash equal | byte equal | " Size="95742" Date="20.03.2020 17:12:03" BitError="0">data</data>
+  </records>
+  <records>
+    <data fileName="D:\_V2020_\_Rabota_2020__\_Lanit____\data__\CTL\28\DGD_BIN_OLD\28_8K_UCG20_0C.bin" fileNameCompare="D:\_V2020_\_Rabota_2020__\_Lanit____\info_lanit_2020_03_14__.txt" CompareCharacterize="--fulling-- compare | hash equal | byte equal | " Size="95742" Date="20.03.2020 17:12:03" BitError="0">data</data>
+  </records>
+  <records>
+    <data fileName="D:\_V2020_\_Rabota_2020__\_Lanit____\data__\CTL\28\DGD_BIN_OLD\28_S19M_04.bin" fileNameCompare="D:\_V2020_\_Rabota_2020__\_Lanit____\info_lanit_2020_03_14__.txt" CompareCharacterize="--fulling-- compare | hash equal | byte equal | " Size="95742" Date="20.03.2020 17:12:03" BitError="0">data</data>
+  </records>
+  <records>
+    <data fileName="D:\_V2020_\_Rabota_2020__\_Lanit____\data__\CTL\28\SCAN_BIN\28_HY3D_TLC_MP_EX.BIN" fileNameCompare="D:\_V2020_\_Rabota_2020__\_Lanit____\info_lanit_2020_03_14__.txt" CompareCharacterize="--fulling-- compare | hash equal | byte equal | " Size="26110" Date="20.03.2020 17:12:03" BitError="0">data</data>
+  </records>
+  <records>
+    <data fileName="D:\_V2020_\_Rabota_2020__\_Lanit____\data__\CTL\28\SCAN_BIN\28_LB_SCAN_N_A (2).BIN" fileNameCompare="D:\_V2020_\_Rabota_2020__\_Lanit____\info_lanit_2020_03_14__.txt" CompareCharacterize="--fulling-- compare | hash equal | byte equal | " Size="26110" Date="20.03.2020 17:12:03" BitError="0">data</data>
+  </records>
+  <records>
+    <data fileName="D:\_V2020_\_Rabota_2020__\_Lanit____\data__\CTL\28\SCAN_BIN\28_LB_SSD_3D (2).BIN" fileNameCompare="D:\_V2020_\_Rabota_2020__\_Lanit____\info_lanit_2020_03_14__.txt" CompareCharacterize="--fulling-- compare | hash equal | byte equal | " Size="26110" Date="20.03.2020 17:12:03" BitError="0">data</data>
+  </records>
+  <records>
+    <data fileName="D:\_V2020_\_Rabota_2020__\_Lanit____\data__\CTL\28\SCAN_BIN\28_TOS15_eD3_MP_EX.BIN" fileNameCompare="D:\_V2020_\_Rabota_2020__\_Lanit____\info_lanit_2020_03_14__.txt" CompareCharacterize="--fulling-- compare | hash equal | byte equal | " Size="26110" Date="20.03.2020 17:12:03" BitError="0">data</data>
+  </records>
+  <records>
+    <data fileName="D:\_V2020_\_Rabota_2020__\_Lanit____\data__\CTL\81\MP3_DGD_BIN\81_LB_SLC_08.BIN" fileNameCompare="D:\_V2020_\_Rabota_2020__\_Lanit____\info_lanit_2020_03_14__.txt" CompareCharacterize="--fulling-- compare | hash equal | byte equal | " Size="8192" Date="20.03.2020 17:12:03" BitError="0">data</data>
+  </records>
+  <records>
+    <data fileName="D:\_V2020_\_Rabota_2020__\_Lanit____\data__\CTL\82\BIN\TOS_MLC_4G.BIN" fileNameCompare="D:\_V2020_\_Rabota_2020__\_Lanit____\info_lanit_2020_03_14__.txt" CompareCharacterize="--fulling-- compare | hash equal | byte equal | " Size="16384" Date="20.03.2020 17:12:03" BitError="0">data</data>
+  </records>
+  <records>
+    <data fileName="D:\_V2020_\_Rabota_2020__\_Lanit____\data__\CTL\83\BIN\83_01_K9F.BIN" fileNameCompare="D:\_V2020_\_Rabota_2020__\_Lanit____\info_lanit_2020_03_14__.txt" CompareCharacterize="--fulling-- compare | hash equal | byte equal | " Size="21758" Date="20.03.2020 17:12:03" BitError="0">data</data>
+  </records>
+  <records>
+    <data fileName="D:\_V2020_\_Rabota_2020__\_Lanit____\data__\CTL\86\BIN\86_10_K9LAG.bin" fileNameCompare="D:\_V2020_\_Rabota_2020__\_Lanit____\info_lanit_2020_03_14__.txt" CompareCharacterize="--fulling-- compare | hash equal | byte equal | " Size="21758" Date="20.03.2020 17:12:03" BitError="0">data</data>
+  </records>
+  <records>
+    <data fileName="D:\_V2020_\_Rabota_2020__\_Lanit____\data__\CTL\86\BIN\86_D2_S16G_16.bin" fileNameCompare="D:\_V2020_\_Rabota_2020__\_Lanit____\info_lanit_2020_03_14__.txt" CompareCharacterize="--fulling-- compare | hash equal | byte equal | " Size="21758" Date="20.03.2020 17:12:03" BitError="0">data</data>
+  </records>
+  <records>
+    <data fileName="D:\_V2020_\_Rabota_2020__\_Lanit____\data__\CTL\86\DGD_BIN\86_TOS_MLC_3B.BIN" fileNameCompare="D:\_V2020_\_Rabota_2020__\_Lanit____\info_lanit_2020_03_14__.txt" CompareCharacterize="--fulling-- compare | hash equal | byte equal | " Size="21760" Date="20.03.2020 17:12:03" BitError="0">data</data>
+  </records>
+  <records>
+    <data fileName="D:\_V2020_\_Rabota_2020__\_Lanit____\data__\CTL\90\BIN\90_09_K9WAG.bin" fileNameCompare="D:\_V2020_\_Rabota_2020__\_Lanit____\info_lanit_2020_03_14__.txt" CompareCharacterize="--fulling-- compare | hash equal | byte equal | " Size="26110" Date="20.03.2020 17:12:03" BitError="0">data</data>
+  </records>
+  <records>
+    <data fileName="D:\_V2020_\_Rabota_2020__\_Lanit____\data__\CTL\90\BIN\90_55_TCS2K.BIN" fileNameCompare="D:\_V2020_\_Rabota_2020__\_Lanit____\info_lanit_2020_03_14__.txt" CompareCharacterize="--fulling-- compare | hash equal | byte equal | " Size="26110" Date="20.03.2020 17:12:03" BitError="0">data</data>
+  </records>
+  <records>
+    <data fileName="D:\_V2020_\_Rabota_2020__\_Lanit____\data__\CTL\90\BIN\90_73_SD43NDD.BIN" fileNameCompare="D:\_V2020_\_Rabota_2020__\_Lanit____\info_lanit_2020_03_14__.txt" CompareCharacterize="--fulling-- compare | hash equal | byte equal | " Size="26110" Date="20.03.2020 17:12:03" BitError="0">data</data>
+  </records>
+  <records>
+    <data fileName="D:\_V2020_\_Rabota_2020__\_Lanit____\data__\CTL\90\DGD_BIN\90_4K_TLC_08_256.bin" fileNameCompare="D:\_V2020_\_Rabota_2020__\_Lanit____\info_lanit_2020_03_14__.txt" CompareCharacterize="--fulling-- compare | hash equal | byte equal | " Size="26110" Date="20.03.2020 17:12:03" BitError="0">data</data>
+  </records>
+  <records>
+    <data fileName="D:\_V2020_\_Rabota_2020__\_Lanit____\data__\CTL\92\BIN\92_16_TCM4K.BIN" fileNameCompare="D:\_V2020_\_Rabota_2020__\_Lanit____\info_lanit_2020_03_14__.txt" CompareCharacterize="--fulling-- compare | hash equal | byte equal | " Size="21758" Date="20.03.2020 17:12:03" BitError="0">data</data>
+  </records>
+  <records>
+    <data fileName="D:\_V2020_\_Rabota_2020__\_Lanit____\data__\CTL\92\DGD_BIN\92_4K_MLC_SDRE_04.bin" fileNameCompare="D:\_V2020_\_Rabota_2020__\_Lanit____\info_lanit_2020_03_14__.txt" CompareCharacterize="--fulling-- compare | hash equal | byte equal | " Size="21758" Date="20.03.2020 17:12:03" BitError="0">data</data>
+  </records>
+  <records>
+    <data fileName="D:\_V2020_\_Rabota_2020__\_Lanit____\data__\CTL\92\DGD_BIN\92_LB_SLC_08.bin" fileNameCompare="D:\_V2020_\_Rabota_2020__\_Lanit____\info_lanit_2020_03_14__.txt" CompareCharacterize="--fulling-- compare | hash equal | byte equal | " Size="21758" Date="20.03.2020 17:12:03" BitError="0">data</data>
+  </records>
+  <records>
+    <data fileName="D:\_V2020_\_Rabota_2020__\_Lanit____\data__\CTL\92\SCAN_BIN\92_LB_SORT.bin" fileNameCompare="D:\_V2020_\_Rabota_2020__\_Lanit____\info_lanit_2020_03_14__.txt" CompareCharacterize="--fulling-- compare | hash equal | byte equal | " Size="21758" Date="20.03.2020 17:12:03" BitError="0">data</data>
+  </records>
+  <records>
+    <data fileName="D:\_V2020_\_Rabota_2020__\_Lanit____\data__\CTL\96\BIN\96_08_K9F4G.BIN" fileNameCompare="D:\_V2020_\_Rabota_2020__\_Lanit____\info_lanit_2020_03_14__.txt" CompareCharacterize="--fulling-- compare | hash equal | byte equal | " Size="34814" Date="20.03.2020 17:12:03" BitError="0">data</data>
+  </records>
+  <records>
+    <data fileName="D:\_V2020_\_Rabota_2020__\_Lanit____\data__\CTL\96\BIN\96_40_K9GAGE.BIN" fileNameCompare="D:\_V2020_\_Rabota_2020__\_Lanit____\info_lanit_2020_03_14__.txt" CompareCharacterize="--fulling-- compare | hash equal | byte equal | " Size="34814" Date="20.03.2020 17:12:03" BitError="0">data</data>
+  </records>
+  <records>
+    <data fileName="D:\_V2020_\_Rabota_2020__\_Lanit____\data__\CTL\A0\DGD_BIN\28_HY26M (2).BIN" fileNameCompare="D:\_V2020_\_Rabota_2020__\_Lanit____\info_lanit_2020_03_14__.txt" CompareCharacterize="--fulling-- compare | hash equal | byte equal | " Size="95742" Date="20.03.2020 17:12:03" BitError="0">data</data>
+  </records>
+  <records>
+    <data fileName="D:\_V2020_\_Rabota_2020__\_Lanit____\data__\CTL\A0\DGD_BIN\28_TOS16M (2).BIN" fileNameCompare="D:\_V2020_\_Rabota_2020__\_Lanit____\info_lanit_2020_03_14__.txt" CompareCharacterize="--fulling-- compare | hash equal | byte equal | " Size="95742" Date="20.03.2020 17:12:03" BitError="0">data</data>
+  </records>
+  <records>
+    <data fileName="D:\_V2020_\_Rabota_2020__\_Lanit____\data__\CTL\A0\SCAN_BIN\A0_LB_BCT (2).bin" fileNameCompare="D:\_V2020_\_Rabota_2020__\_Lanit____\info_lanit_2020_03_14__.txt" CompareCharacterize="--fulling-- compare | hash equal | byte equal | " Size="8192" Date="20.03.2020 17:12:03" BitError="0">data</data>
+  </records>
+  <records>
+    <data fileName="D:\_V2020_\_Rabota_2020__\_Lanit____\data__\CTL\A0\SCAN_BIN\A0_LB_SCAN_READ.bin" fileNameCompare="D:\_V2020_\_Rabota_2020__\_Lanit____\info_lanit_2020_03_14__.txt" CompareCharacterize="--fulling-- compare | hash equal | byte equal | " Size="8192" Date="20.03.2020 17:12:03" BitError="0">data</data>
+  </records>
+  <records>
+    <data fileName="D:\_V2020_\_Rabota_2020__\_Lanit____\data__\CTL\A0\SCAN_BIN\A0_TOS15_eD3.bin" fileNameCompare="D:\_V2020_\_Rabota_2020__\_Lanit____\info_lanit_2020_03_14__.txt" CompareCharacterize="--fulling-- compare | hash equal | byte equal | " Size="8192" Date="20.03.2020 17:12:03" BitError="0">data</data>
+  </records>
+  <records>
+    <data fileName="D:\_V2020_\_Rabota_2020__\_Lanit____\data__\Dgd\81\BIN\LB_MLC_08_01.BIN_TBL" fileNameCompare="D:\_V2020_\_Rabota_2020__\_Lanit____\info_lanit_2020_03_14__.txt" CompareCharacterize="--fulling-- compare | hash equal | byte equal | " Size="8192" Date="20.03.2020 17:12:03" BitError="0">data</data>
+  </records>
+  <records>
+    <data fileName="D:\_V2020_\_Rabota_2020__\_Lanit____\data__\CTL\96\BIN\96_18_THM8K.BIN" fileNameCompare="D:\_V2020_\_Rabota_2020__\_Lanit____\info_lanit_2020_03_14__.txt" CompareCharacterize="--fulling-- compare | hash equal | byte equal | " Size="34814" Date="20.03.2020 17:12:03" BitError="0">data</data>
+  </records>
+  <records>
+    <data fileName="D:\_V2020_\_Rabota_2020__\_Lanit____\data__\Dgd\82\BIN\LB_LLF.BIN" fileNameCompare="D:\_V2020_\_Rabota_2020__\_Lanit____\info_lanit_2020_03_14__.txt" CompareCharacterize="--fulling-- compare | hash equal | byte equal | " Size="8192" Date="20.03.2020 17:12:03" BitError="0">data</data>
+  </records>
+  <records>
+    <data fileName="D:\_V2020_\_Rabota_2020__\_Lanit____\data__\Dgd\82\BIN\SB_LLF.BIN" fileNameCompare="D:\_V2020_\_Rabota_2020__\_Lanit____\info_lanit_2020_03_14__.txt" CompareCharacterize="--fulling-- compare | hash equal | byte equal | " Size="8192" Date="20.03.2020 17:12:03" BitError="0">data</data>
+  </records>
+  <records>
+    <data fileName="D:\_V2020_\_Rabota_2020__\_Lanit____\data__\Normal\82\BIN\82_SB_SLC.BIN_STS" fileNameCompare="D:\_V2020_\_Rabota_2020__\_Lanit____\info_lanit_2020_03_14__.txt" CompareCharacterize="--fulling-- compare | hash equal | byte equal | " Size="16384" Date="20.03.2020 17:12:03" BitError="0">data</data>
+  </records>
+  <records>
+    <data fileName="D:\_V2020_\_Rabota_2020__\_Lanit____\data__\Normal\83\83_11_R1F4G.BIN" fileNameCompare="D:\_V2020_\_Rabota_2020__\_Lanit____\info_lanit_2020_03_14__.txt" CompareCharacterize="--fulling-- compare | hash equal | byte equal | " Size="21758" Date="20.03.2020 17:12:03" BitError="0">data</data>
+  </records>
+  <records>
+    <data fileName="D:\_V2020_\_Rabota_2020__\_Lanit____\data__\Normal\86\86_02_UT.BIN" fileNameCompare="D:\_V2020_\_Rabota_2020__\_Lanit____\info_lanit_2020_03_14__.txt" CompareCharacterize="--fulling-- compare | hash equal | byte equal | " Size="21758" Date="20.03.2020 17:12:03" BitError="0">data</data>
+  </records>
+  <records>
+    <data fileName="D:\_V2020_\_Rabota_2020__\_Lanit____\data__\Normal\MP381\LCM\LCM_1S_3BTN.BIN" fileNameCompare="D:\_V2020_\_Rabota_2020__\_Lanit____\info_lanit_2020_03_14__.txt" CompareCharacterize="--fulling-- compare | hash equal | byte equal | " Size="25088" Date="20.03.2020 17:12:03" BitError="0">data</data>
+  </records>
+  <records>
+    <data fileName="D:\_V2020_\_Rabota_2020__\_Lanit____\data__\SwapCode\ECC_parameter\data1024_extrbyte2_ecc25_page0.bin" fileNameCompare="D:\_V2020_\_Rabota_2020__\_Lanit____\info_lanit_2020_03_14__.txt" CompareCharacterize="--fulling-- compare | hash equal | byte equal | " Size="512" Date="20.03.2020 17:12:03" BitError="0">data</data>
+  </records>
+  <records>
+    <data fileName="D:\_V2020_\_Rabota_2020__\_Lanit____\data__\SwapCode\ECC_parameter\data1024_extrbyte2_ecc36_page0.bin" fileNameCompare="D:\_V2020_\_Rabota_2020__\_Lanit____\info_lanit_2020_03_14__.txt" CompareCharacterize="--fulling-- compare | hash equal | byte equal | " Size="512" Date="20.03.2020 17:12:03" BitError="0">data</data>
+  </records>
+  <records>
+    <data fileName="D:\_V2020_\_Rabota_2020__\_Lanit____\data__\SwapCode\ECC_parameter\data1024_extrbyte2_ecc44_page0.bin" fileNameCompare="D:\_V2020_\_Rabota_2020__\_Lanit____\info_lanit_2020_03_14__.txt" CompareCharacterize="--fulling-- compare | hash equal | byte equal | " Size="512" Date="20.03.2020 17:12:03" BitError="0">data</data>
+  </records>
+  <records>
+    <data fileName="D:\_V2020_\_Rabota_2020__\_Lanit____\data__\SwapCode\ECC_parameter\data1024_extrbyte2_ecc54_page0.bin" fileNameCompare="D:\_V2020_\_Rabota_2020__\_Lanit____\info_lanit_2020_03_14__.txt" CompareCharacterize="--fulling-- compare | hash equal | byte equal | " Size="512" Date="20.03.2020 17:12:03" BitError="0">data</data>
+  </records>
+  <records>
+    <data fileName="D:\_V2020_\_Rabota_2020__\_Lanit____\data__\SwapCode\ECC_parameter\data1024_extrbyte2_ecc63_page0.bin" fileNameCompare="D:\_V2020_\_Rabota_2020__\_Lanit____\info_lanit_2020_03_14__.txt" CompareCharacterize="--fulling-- compare | hash equal | byte equal | " Size="512" Date="20.03.2020 17:12:03" BitError="0">data</data>
+  </records>
+  <records>
+    <data fileName="D:\_V2020_\_Rabota_2020__\_Lanit____\data__\SwapCode\ECC_parameter\data128_extrbyte2_ecc18_page0.bin" fileNameCompare="D:\_V2020_\_Rabota_2020__\_Lanit____\info_lanit_2020_03_14__.txt" CompareCharacterize="--fulling-- compare | hash equal | byte equal | " Size="512" Date="20.03.2020 17:12:03" BitError="0">data</data>
+  </records>
+  <records>
+    <data fileName="D:\_V2020_\_Rabota_2020__\_Lanit____\data__\SwapCode\ECC_parameter\data128_extrbyte2_ecc44_page0.bin" fileNameCompare="D:\_V2020_\_Rabota_2020__\_Lanit____\info_lanit_2020_03_14__.txt" CompareCharacterize="--fulling-- compare | hash equal | byte equal | " Size="512" Date="20.03.2020 17:12:03" BitError="0">data</data>
+  </records>
+  <records>
+    <data fileName="D:\_V2020_\_Rabota_2020__\_Lanit____\data__\SwapCode\ECC_parameter\data512_extrbyte2_ecc21_page0.bin" fileNameCompare="D:\_V2020_\_Rabota_2020__\_Lanit____\info_lanit_2020_03_14__.txt" CompareCharacterize="--fulling-- compare | hash equal | byte equal | " Size="512" Date="20.03.2020 17:12:03" BitError="0">data</data>
+  </records>
+  <records>
+    <data fileName="D:\_V2020_\_Rabota_2020__\_Lanit____\data__\SwapCode\ECC_parameter\data512_extrbyte2_ecc41_page0.bin" fileNameCompare="D:\_V2020_\_Rabota_2020__\_Lanit____\info_lanit_2020_03_14__.txt" CompareCharacterize="--fulling-- compare | hash equal | byte equal | " Size="512" Date="20.03.2020 17:12:03" BitError="0">data</data>
+  </records>
+  <records>
+    <data fileName="D:\_V2020_\_Rabota_2020__\_Lanit____\data__\SwapCode\MLC_L06B\MPNBCdIn.bin" fileNameCompare="D:\_V2020_\_Rabota_2020__\_Lanit____\info_lanit_2020_03_14__.txt" CompareCharacterize="--fulling-- compare | hash equal | byte equal | " Size="5120" Date="20.03.2020 17:12:03" BitError="0">data</data>
+  </records>
+  <records>
+    <data fileName="D:\_V2020_\_Rabota_2020__\_Lanit____\data__\SwapCode\TLC\SwapNB.BIN" fileNameCompare="D:\_V2020_\_Rabota_2020__\_Lanit____\info_lanit_2020_03_14__.txt" CompareCharacterize="--fulling-- compare | hash equal | byte equal | " Size="164864" Date="20.03.2020 17:12:03" BitError="0">data</data>
+  </records>
+  <records>
+    <data fileName="D:\_V2020_\_Rabota_2020__\_Lanit____\data__\U3\Tbl\ECC_Para\data1024_extrbyte2_ecc31_page0.bin" fileNameCompare="D:\_V2020_\_Rabota_2020__\_Lanit____\info_lanit_2020_03_14__.txt" CompareCharacterize="--fulling-- compare | hash equal | byte equal | " Size="512" Date="20.03.2020 17:12:03" BitError="0">data</data>
+  </records>
+  <records>
+    <data fileName="D:\_V2020_\_Rabota_2020__\_Lanit____\data__\U3\Tbl\ECC_Para\data1024_extrbyte2_ecc38_page0.bin" fileNameCompare="D:\_V2020_\_Rabota_2020__\_Lanit____\info_lanit_2020_03_14__.txt" CompareCharacterize="--fulling-- compare | hash equal | byte equal | " Size="512" Date="20.03.2020 17:12:03" BitError="0">data</data>
+  </records>
+  <records>
+    <data fileName="D:\_V2020_\_Rabota_2020__\_Lanit____\data__\U3\Tbl\ECC_Para\data1024_extrbyte2_ecc48_page0.bin" fileNameCompare="D:\_V2020_\_Rabota_2020__\_Lanit____\info_lanit_2020_03_14__.txt" CompareCharacterize="--fulling-- compare | hash equal | byte equal | " Size="512" Date="20.03.2020 17:12:03" BitError="0">data</data>
+  </records>
+  <records>
+    <data fileName="D:\_V2020_\_Rabota_2020__\_Lanit____\data__\U3\Tbl\ECC_Para\data1024_extrbyte2_ecc72_page0.bin" fileNameCompare="D:\_V2020_\_Rabota_2020__\_Lanit____\info_lanit_2020_03_14__.txt" CompareCharacterize="--fulling-- compare | hash equal | byte equal | " Size="512" Date="20.03.2020 17:12:03" BitError="0">data</data>
+  </records>
+  <records>
+    <data fileName="D:\_V2020_\_Rabota_2020__\_Lanit____\data__\U3\Tbl\ECC_Para\data128_extrbyte2_ecc30_page0.bin" fileNameCompare="D:\_V2020_\_Rabota_2020__\_Lanit____\info_lanit_2020_03_14__.txt" CompareCharacterize="--fulling-- compare | hash equal | byte equal | " Size="512" Date="20.03.2020 17:12:03" BitError="0">data</data>
+  </records>
+  <records>
+    <data fileName="D:\_V2020_\_Rabota_2020__\_Lanit____\data__\U3\Tbl\ECC_Para\data128_extrbyte2_ecc52_page0.bin" fileNameCompare="D:\_V2020_\_Rabota_2020__\_Lanit____\info_lanit_2020_03_14__.txt" CompareCharacterize="--fulling-- compare | hash equal | byte equal | " Size="512" Date="20.03.2020 17:12:03" BitError="0">data</data>
+  </records>
+  <records>
+    <data fileName="D:\_V2020_\_Rabota_2020__\_Lanit____\data__\U3\Tbl\ECC_Para\data128_extrbyte2_ecc67_page0.bin" fileNameCompare="D:\_V2020_\_Rabota_2020__\_Lanit____\info_lanit_2020_03_14__.txt" CompareCharacterize="--fulling-- compare | hash equal | byte equal | " Size="512" Date="20.03.2020 17:12:03" BitError="0">data</data>
+  </records>
+  <records>
+    <data fileName="D:\_V2020_\_Rabota_2020__\_Lanit____\data__\U3\Tbl\ECC_Para\data512_extrbyte2_ecc21_page0.bin" fileNameCompare="D:\_V2020_\_Rabota_2020__\_Lanit____\info_lanit_2020_03_14__.txt" CompareCharacterize="--fulling-- compare | hash equal | byte equal | " Size="512" Date="20.03.2020 17:12:03" BitError="0">data</data>
+  </records>
+  <records>
+    <data fileName="D:\_V2020_\_Rabota_2020__\_Lanit____\data__\U3\Tbl\ECC_Para\data512_extrbyte2_ecc29_page0.bin" fileNameCompare="D:\_V2020_\_Rabota_2020__\_Lanit____\info_lanit_2020_03_14__.txt" CompareCharacterize="--fulling-- compare | hash equal | byte equal | " Size="512" Date="20.03.2020 17:12:03" BitError="0">data</data>
+  </records>
+  <records>
+    <data fileName="D:\_V2020_\_Rabota_2020__\_Lanit____\data__\U3\Tbl\ECC_Para\data512_extrbyte2_ecc35_page0.bin" fileNameCompare="D:\_V2020_\_Rabota_2020__\_Lanit____\info_lanit_2020_03_14__.txt" CompareCharacterize="--fulling-- compare | hash equal | byte equal | " Size="512" Date="20.03.2020 17:12:03" BitError="0">data</data>
+  </records>
+  <records>
+    <data fileName="D:\_V2020_\_Rabota_2020__\_Lanit____\data__\U3\Tbl\ECC_Para\data512_extrbyte2_ecc44_page0.bin" fileNameCompare="D:\_V2020_\_Rabota_2020__\_Lanit____\info_lanit_2020_03_14__.txt" CompareCharacterize="--fulling-- compare | hash equal | byte equal | " Size="512" Date="20.03.2020 17:12:03" BitError="0">data</data>
+  </records>
+  <records>
+    <data fileName="D:\_V2020_\_Rabota_2020__\_Lanit____\data__\U3\Tbl\ECC_Para\data512_extrbyte2_ecc51_page0.bin" fileNameCompare="D:\_V2020_\_Rabota_2020__\_Lanit____\info_lanit_2020_03_14__.txt" CompareCharacterize="--fulling-- compare | hash equal | byte equal | " Size="512" Date="20.03.2020 17:12:03" BitError="0">data</data>
+  </records>
+  <records>
+    <data fileName="D:\_V2020_\_Rabota_2020__\_Lanit____\data__\U3\Tbl\ECC_Para\data1024_extrbyte2_ecc61_page0.bin" fileNameCompare="D:\_V2020_\_Rabota_2020__\_Lanit____\info_lanit_2020_03_14__.txt" CompareCharacterize="--fulling-- compare | hash equal | byte equal | " Size="512" Date="20.03.2020 17:12:03" BitError="0">data</data>
+  </records>
+  <records>
+    <data fileName="D:\_V2020_\_Rabota_2020__\_Lanit____\data__\UfdApi\UfdApi_Gen\CTL\28\BIN\28_2E_K9GCG_QP.BIN" fileNameCompare="D:\_V2020_\_Rabota_2020__\_Lanit____\info_lanit_2020_03_14__.txt" CompareCharacterize="--fulling-- compare | hash equal | byte equal | " Size="69630" Date="20.03.2020 17:12:03" BitError="0">data</data>
+  </records>
+  <records>
+    <data fileName="D:\_V2020_\_Rabota_2020__\_Lanit____\data__\UfdApi\UfdApi_Gen\CTL\28\BIN\28_7E_DFL.BIN" fileNameCompare="D:\_V2020_\_Rabota_2020__\_Lanit____\info_lanit_2020_03_14__.txt" CompareCharacterize="--fulling-- compare | hash equal | byte equal | " Size="69631" Date="20.03.2020 17:12:03" BitError="0">data</data>
+  </records>
+  <records>
+    <data fileName="D:\_V2020_\_Rabota_2020__\_Lanit____\data__\UfdApi\UfdApi_Gen\CTL\28\BIN\36_MI_3D_MLC_L05B.BIN" fileNameCompare="D:\_V2020_\_Rabota_2020__\_Lanit____\info_lanit_2020_03_14__.txt" CompareCharacterize="--fulling-- compare | hash equal | byte equal | " Size="80511" Date="20.03.2020 17:12:03" BitError="0">data</data>
+  </records>
+  <records>
+    <data fileName="D:\_V2020_\_Rabota_2020__\_Lanit____\data__\UfdApi\UfdApi_Gen\CTL\28\DGD_BIN\28_16K_TOS16M.bin" fileNameCompare="D:\_V2020_\_Rabota_2020__\_Lanit____\info_lanit_2020_03_14__.txt" CompareCharacterize="--fulling-- compare | hash equal | byte equal | " Size="95742" Date="20.03.2020 17:12:03" BitError="0">data</data>
+  </records>
+  <records>
+    <data fileName="D:\_V2020_\_Rabota_2020__\_Lanit____\data__\UfdApi\UfdApi_Gen\CTL\28\DGD_BIN\28_GEN.BIN" fileNameCompare="D:\_V2020_\_Rabota_2020__\_Lanit____\info_lanit_2020_03_14__.txt" CompareCharacterize="--fulling-- compare | hash equal | byte equal | " Size="95743" Date="20.03.2020 17:12:03" BitError="0">data</data>
+  </records>
+  <records>
+    <data fileName="D:\_V2020_\_Rabota_2020__\_Lanit____\data__\UfdApi\UfdApi_Gen\CTL\28\DGD_BIN\28_SD15M.BIN" fileNameCompare="D:\_V2020_\_Rabota_2020__\_Lanit____\info_lanit_2020_03_14__.txt" CompareCharacterize="--fulling-- compare | hash equal | byte equal | " Size="95742" Date="20.03.2020 17:12:03" BitError="0">data</data>
+  </records>
+  <records>
+    <data fileName="D:\_V2020_\_Rabota_2020__\_Lanit____\data__\UfdApi\UfdApi_Gen\CTL\28\DGD_BIN\28_TOS19M.BIN" fileNameCompare="D:\_V2020_\_Rabota_2020__\_Lanit____\info_lanit_2020_03_14__.txt" CompareCharacterize="--fulling-- compare | hash equal | byte equal | " Size="95742" Date="20.03.2020 17:12:03" BitError="0">data</data>
+  </records>
+  <records>
+    <data fileName="D:\_V2020_\_Rabota_2020__\_Lanit____\data__\UfdApi\UfdApi_Gen\CTL\28\DGD_BIN\36_HY14M.BIN" fileNameCompare="D:\_V2020_\_Rabota_2020__\_Lanit____\info_lanit_2020_03_14__.txt" CompareCharacterize="--fulling-- compare | hash equal | byte equal | " Size="95743" Date="20.03.2020 17:12:03" BitError="0">data</data>
+  </records>
+  <records>
+    <data fileName="D:\_V2020_\_Rabota_2020__\_Lanit____\data__\UfdApi\UfdApi_Gen\CTL\28\DGD_BIN\36_L06B_CB_1P.BIN" fileNameCompare="D:\_V2020_\_Rabota_2020__\_Lanit____\info_lanit_2020_03_14__.txt" CompareCharacterize="--fulling-- compare | hash equal | byte equal | " Size="113150" Date="20.03.2020 17:12:03" BitError="0">data</data>
+  </records>
+  <records>
+    <data fileName="D:\_V2020_\_Rabota_2020__\_Lanit____\data__\UfdApi\UfdApi_Gen\CTL\28\DGD_BIN_OLD\28_8K_L84_A.bin" fileNameCompare="D:\_V2020_\_Rabota_2020__\_Lanit____\info_lanit_2020_03_14__.txt" CompareCharacterize="--fulling-- compare | hash equal | byte equal | " Size="95742" Date="20.03.2020 17:12:03" BitError="0">data</data>
+  </records>
+  <records>
+    <data fileName="D:\_V2020_\_Rabota_2020__\_Lanit____\data__\UfdApi\UfdApi_Gen\CTL\28\SCAN_BIN\28_LB_CHECK_TOGGLE.BIN" fileNameCompare="D:\_V2020_\_Rabota_2020__\_Lanit____\info_lanit_2020_03_14__.txt" CompareCharacterize="--fulling-- compare | hash equal | byte equal | " Size="26110" Date="20.03.2020 17:12:03" BitError="0">data</data>
+  </records>
+  <records>
+    <data fileName="D:\_V2020_\_Rabota_2020__\_Lanit____\data__\UfdApi\UfdApi_Gen\CTL\28\SCAN_BIN\28_LB_SCAN_TOS_READ_N_A.BIN" fileNameCompare="D:\_V2020_\_Rabota_2020__\_Lanit____\info_lanit_2020_03_14__.txt" CompareCharacterize="--fulling-- compare | hash equal | byte equal | " Size="26110" Date="20.03.2020 17:12:03" BitError="0">data</data>
+  </records>
+  <records>
+    <data fileName="D:\_V2020_\_Rabota_2020__\_Lanit____\data__\UfdApi\UfdApi_Gen\CTL\A0\DGD_BIN\28_TOS16M_CB.BIN" fileNameCompare="D:\_V2020_\_Rabota_2020__\_Lanit____\info_lanit_2020_03_14__.txt" CompareCharacterize="--fulling-- compare | hash equal | byte equal | " Size="95742" Date="20.03.2020 17:12:03" BitError="0">data</data>
+  </records>
+  <records>
+    <data fileName="D:\_V2020_\_Rabota_2020__\_Lanit____\data__\UfdApi\UfdApi_X3\CTL\10\BIN\10_89_TOS_TLC_SZ.BIN" fileNameCompare="D:\_V2020_\_Rabota_2020__\_Lanit____\info_lanit_2020_03_14__.txt" CompareCharacterize="--fulling-- compare | hash equal | byte equal | " Size="39166" Date="20.03.2020 17:12:03" BitError="0">data</data>
+  </records>
+  <records>
+    <data fileName="D:\_V2020_\_Rabota_2020__\_Lanit____\data__\UfdApi\UfdApi_X3\CTL\10\DGD_BIN\10_Samsung21_X3_0C.bin" fileNameCompare="D:\_V2020_\_Rabota_2020__\_Lanit____\info_lanit_2020_03_14__.txt" CompareCharacterize="--fulling-- compare | hash equal | byte equal | " Size="34814" Date="20.03.2020 17:12:03" BitError="0">data</data>
+  </records>
+  <records>
+    <data fileName="D:\_V2020_\_Rabota_2020__\_Lanit____\data__\UfdApi\UfdApi_X3\CTL\10\SCAN_BIN\10_S21_TLC_LLF.BIN" fileNameCompare="D:\_V2020_\_Rabota_2020__\_Lanit____\info_lanit_2020_03_14__.txt" CompareCharacterize="--fulling-- compare | hash equal | byte equal | " Size="26110" Date="20.03.2020 17:12:03" BitError="0">data</data>
+  </records>
+  <records>
+    <data fileName="D:\_V2020_\_Rabota_2020__\_Lanit____\data__\UfdApi\UfdApi_X3\CTL\28\BIN\28_3C_K9ACG.BIN" fileNameCompare="D:\_V2020_\_Rabota_2020__\_Lanit____\info_lanit_2020_03_14__.txt" CompareCharacterize="--fulling-- compare | hash equal | byte equal | " Size="69630" Date="20.03.2020 17:12:03" BitError="0">data</data>
+  </records>
+  <records>
+    <data fileName="D:\_V2020_\_Rabota_2020__\_Lanit____\data__\UfdApi\UfdApi_X3\CTL\28\BIN\28_6C_16nm_Hy_TLC_E2TLC.BIN" fileNameCompare="D:\_V2020_\_Rabota_2020__\_Lanit____\info_lanit_2020_03_14__.txt" CompareCharacterize="--fulling-- compare | hash equal | byte equal | " Size="69631" Date="20.03.2020 17:12:03" BitError="0">data</data>
+  </records>
+  <records>
+    <data fileName="D:\_V2020_\_Rabota_2020__\_Lanit____\data__\UfdApi\UfdApi_X3\CTL\28\BIN\28_8C_EX3.BIN" fileNameCompare="D:\_V2020_\_Rabota_2020__\_Lanit____\info_lanit_2020_03_14__.txt" CompareCharacterize="--fulling-- compare | hash equal | byte equal | " Size="69630" Date="20.03.2020 17:12:03" BitError="0">data</data>
+  </records>
+  <records>
+    <data fileName="D:\_V2020_\_Rabota_2020__\_Lanit____\data__\UfdApi\UfdApi_X3\CTL\28\BIN\36_HY_3D_TLC_v4.BIN" fileNameCompare="D:\_V2020_\_Rabota_2020__\_Lanit____\info_lanit_2020_03_14__.txt" CompareCharacterize="--fulling-- compare | hash equal | byte equal | " Size="80511" Date="20.03.2020 17:12:03" BitError="0">data</data>
+  </records>
+  <records>
+    <data fileName="D:\_V2020_\_Rabota_2020__\_Lanit____\data__\UfdApi\UfdApi_X3\CTL\28\BIN\36_SD_GEN4_3D_TLC.BIN" fileNameCompare="D:\_V2020_\_Rabota_2020__\_Lanit____\info_lanit_2020_03_14__.txt" CompareCharacterize="--fulling-- compare | hash equal | byte equal | " Size="71807" Date="20.03.2020 17:12:03" BitError="0">data</data>
+  </records>
+  <records>
+    <data fileName="D:\_V2020_\_Rabota_2020__\_Lanit____\data__\UfdApi\UfdApi_X3\CTL\28\DGD_BIN\28_B0KB_X3.BIN" fileNameCompare="D:\_V2020_\_Rabota_2020__\_Lanit____\info_lanit_2020_03_14__.txt" CompareCharacterize="--fulling-- compare | hash equal | byte equal | " Size="95743" Date="20.03.2020 17:12:03" BitError="0">data</data>
+  </records>
+  <records>
+    <data fileName="D:\_V2020_\_Rabota_2020__\_Lanit____\data__\UfdApi\UfdApi_X3\CTL\28\DGD_BIN\28_TOS24TH_X3_A_0C_ST.bin" fileNameCompare="D:\_V2020_\_Rabota_2020__\_Lanit____\info_lanit_2020_03_14__.txt" CompareCharacterize="--fulling-- compare | hash equal | byte equal | " Size="95742" Date="20.03.2020 17:12:03" BitError="0">data</data>
+  </records>
+  <records>
+    <data fileName="D:\_V2020_\_Rabota_2020__\_Lanit____\data__\UfdApi\UfdApi_X3\CTL\28\DGD_BIN\28_TS_X3_1P.BIN" fileNameCompare="D:\_V2020_\_Rabota_2020__\_Lanit____\info_lanit_2020_03_14__.txt" CompareCharacterize="--fulling-- compare | hash equal | byte equal | " Size="95743" Date="20.03.2020 17:12:03" BitError="0">data</data>
+  </records>
+  <records>
+    <data fileName="D:\_V2020_\_Rabota_2020__\_Lanit____\data__\UfdApi\UfdApi_X3\CTL\28\DGD_BIN\36_MI_X3.BIN" fileNameCompare="D:\_V2020_\_Rabota_2020__\_Lanit____\info_lanit_2020_03_14__.txt" CompareCharacterize="--fulling-- compare | hash equal | byte equal | " Size="113150" Date="20.03.2020 17:12:03" BitError="0">data</data>
+  </records>
+  <records>
+    <data fileName="D:\_V2020_\_Rabota_2020__\_Lanit____\data__\UfdApi\UfdApi_X3\CTL\28\SCAN_BIN\28_MIC3D_B16A_TLC.BIN" fileNameCompare="D:\_V2020_\_Rabota_2020__\_Lanit____\info_lanit_2020_03_14__.txt" CompareCharacterize="--fulling-- compare | hash equal | byte equal | " Size="26110" Date="20.03.2020 17:12:03" BitError="0">data</data>
+  </records>
+  <records>
+    <data fileName="D:\_V2020_\_Rabota_2020__\_Lanit____\data__\UfdApi\UfdApi_X3\CTL\28\SCAN_BIN\28_MICRON16_TLC_LLF.BIN" fileNameCompare="D:\_V2020_\_Rabota_2020__\_Lanit____\info_lanit_2020_03_14__.txt" CompareCharacterize="--fulling-- compare | hash equal | byte equal | " Size="26110" Date="20.03.2020 17:12:03" BitError="0">data</data>
+  </records>
+  <records>
+    <data fileName="D:\_V2020_\_Rabota_2020__\_Lanit____\data__\UfdApi\UfdApi_X3\CTL\28\SCAN_BIN\28_S19_TLC.BIN" fileNameCompare="D:\_V2020_\_Rabota_2020__\_Lanit____\info_lanit_2020_03_14__.txt" CompareCharacterize="--fulling-- compare | hash equal | byte equal | " Size="26110" Date="20.03.2020 17:12:03" BitError="0">data</data>
+  </records>
+  <records>
+    <data fileName="D:\_V2020_\_Rabota_2020__\_Lanit____\data__\UfdApi_Gen\CTL\10\BIN\10_16K_UCGMLC256.BIN" fileNameCompare="D:\_V2020_\_Rabota_2020__\_Lanit____\info_lanit_2020_03_14__.txt" CompareCharacterize="--fulling-- compare | hash equal | byte equal | " Size="39166" Date="20.03.2020 17:12:03" BitError="0">data</data>
+  </records>
+  <records>
+    <data fileName="D:\_V2020_\_Rabota_2020__\_Lanit____\data__\UfdApi_Gen\CTL\10\BIN\10_2B_SD_MLC256P_SP.BIN" fileNameCompare="D:\_V2020_\_Rabota_2020__\_Lanit____\info_lanit_2020_03_14__.txt" CompareCharacterize="--fulling-- compare | hash equal | byte equal | " Size="39166" Date="20.03.2020 17:12:03" BitError="0">data</data>
+  </records>
+  <records>
+    <data fileName="D:\_V2020_\_Rabota_2020__\_Lanit____\data__\UfdApi_Gen\CTL\10\BIN\10_83_MT256MLC_2.BIN" fileNameCompare="D:\_V2020_\_Rabota_2020__\_Lanit____\info_lanit_2020_03_14__.txt" CompareCharacterize="--fulling-- compare | hash equal | byte equal | " Size="30462" Date="20.03.2020 17:12:03" BitError="0">data</data>
+  </records>
+  <records>
+    <data fileName="D:\_V2020_\_Rabota_2020__\_Lanit____\data__\UfdApi_Gen\CTL\10\BIN\21_87_B74_SDP.BIN" fileNameCompare="D:\_V2020_\_Rabota_2020__\_Lanit____\info_lanit_2020_03_14__.txt" CompareCharacterize="--fulling-- compare | hash equal | byte equal | " Size="43518" Date="20.03.2020 17:12:03" BitError="0">data</data>
+  </records>
+  <records>
+    <data fileName="D:\_V2020_\_Rabota_2020__\_Lanit____\data__\UfdApi_Gen\CTL\10\DGD_BIN\10_16K_UCG20_04.BIN" fileNameCompare="D:\_V2020_\_Rabota_2020__\_Lanit____\info_lanit_2020_03_14__.txt" CompareCharacterize="--fulling-- compare | hash equal | byte equal | " Size="47870" Date="20.03.2020 17:12:03" BitError="0">data</data>
+  </records>
+  <records>
+    <data fileName="D:\_V2020_\_Rabota_2020__\_Lanit____\data__\UfdApi_Gen\CTL\10\DGD_BIN\10_SD24M_SM_04.bin" fileNameCompare="D:\_V2020_\_Rabota_2020__\_Lanit____\info_lanit_2020_03_14__.txt" CompareCharacterize="--fulling-- compare | hash equal | byte equal | " Size="43518" Date="20.03.2020 17:12:03" BitError="0">data</data>
+  </records>
+  <records>
+    <data fileName="D:\_V2020_\_Rabota_2020__\_Lanit____\data__\UfdApi_Gen\CTL\10\DGD_BIN_OLD\10_16K_SD19M_DP_B_0C.bin" fileNameCompare="D:\_V2020_\_Rabota_2020__\_Lanit____\info_lanit_2020_03_14__.txt" CompareCharacterize="--fulling-- compare | hash equal | byte equal | " Size="56574" Date="20.03.2020 17:12:03" BitError="0">data</data>
+  </records>
+  <records>
+    <data fileName="D:\_V2020_\_Rabota_2020__\_Lanit____\data__\UfdApi_Gen\CTL\10\DGD_BIN_OLD\10_8K_B74_04.bin" fileNameCompare="D:\_V2020_\_Rabota_2020__\_Lanit____\info_lanit_2020_03_14__.txt" CompareCharacterize="--fulling-- compare | hash equal | byte equal | " Size="43518" Date="20.03.2020 17:12:03" BitError="0">data</data>
+  </records>
+  <records>
+    <data fileName="D:\_V2020_\_Rabota_2020__\_Lanit____\data__\UfdApi_Gen\CTL\10\DGD_BIN_OLD\10_8K_M_L84_0C.bin" fileNameCompare="D:\_V2020_\_Rabota_2020__\_Lanit____\info_lanit_2020_03_14__.txt" CompareCharacterize="--fulling-- compare | hash equal | byte equal | " Size="43518" Date="20.03.2020 17:12:03" BitError="0">data</data>
+  </records>
+  <records>
+    <data fileName="D:\_V2020_\_Rabota_2020__\_Lanit____\data__\UfdApi_Gen\CTL\10\DGD_BIN_OLD\10_8K_UCG26_0C.bin" fileNameCompare="D:\_V2020_\_Rabota_2020__\_Lanit____\info_lanit_2020_03_14__.txt" CompareCharacterize="--fulling-- compare | hash equal | byte equal | " Size="43518" Date="20.03.2020 17:12:03" BitError="0">data</data>
+  </records>
+  <records>
+    <data fileName="D:\_V2020_\_Rabota_2020__\_Lanit____\data__\UfdApi_Gen\CTL\10\SCAN_BIN\10_LB_HLF.BIN" fileNameCompare="D:\_V2020_\_Rabota_2020__\_Lanit____\info_lanit_2020_03_14__.txt" CompareCharacterize="--fulling-- compare | hash equal | byte equal | " Size="26110" Date="20.03.2020 17:12:03" BitError="0">data</data>
+  </records>
+  <records>
+    <data fileName="D:\_V2020_\_Rabota_2020__\_Lanit____\data__\UfdApi_Gen\CTL\28\BIN\28_0C_L06B_TP.BIN" fileNameCompare="D:\_V2020_\_Rabota_2020__\_Lanit____\info_lanit_2020_03_14__.txt" CompareCharacterize="--fulling-- compare | hash equal | byte equal | " Size="69631" Date="20.03.2020 17:12:03" BitError="0">data</data>
+  </records>
+  <records>
+    <data fileName="D:\_V2020_\_Rabota_2020__\_Lanit____\data__\UfdApi_Gen\CTL\28\BIN\28_2B_SDMLC256_TP.BIN" fileNameCompare="D:\_V2020_\_Rabota_2020__\_Lanit____\info_lanit_2020_03_14__.txt" CompareCharacterize="--fulling-- compare | hash equal | byte equal | " Size="69630" Date="20.03.2020 17:12:03" BitError="0">data</data>
+  </records>
+  <records>
+    <data fileName="D:\_V2020_\_Rabota_2020__\_Lanit____\data__\UfdApi_Gen\CTL\28\BIN\28_2B_SD_MLC256P_SP.BIN" fileNameCompare="D:\_V2020_\_Rabota_2020__\_Lanit____\info_lanit_2020_03_14__.txt" CompareCharacterize="--fulling-- compare | hash equal | byte equal | " Size="69630" Date="20.03.2020 17:12:03" BitError="0">data</data>
+  </records>
+  <records>
+    <data fileName="D:\_V2020_\_Rabota_2020__\_Lanit____\data__\UfdApi_Gen\CTL\28\BIN\28_2B_TH_MLC256P_SP.BIN" fileNameCompare="D:\_V2020_\_Rabota_2020__\_Lanit____\info_lanit_2020_03_14__.txt" CompareCharacterize="--fulling-- compare | hash equal | byte equal | " Size="69630" Date="20.03.2020 17:12:03" BitError="0">data</data>
+  </records>
+  <records>
+    <data fileName="D:\_V2020_\_Rabota_2020__\_Lanit____\data__\UfdApi_Gen\CTL\28\BIN\28_2E_K9GCG_QP.BIN" fileNameCompare="D:\_V2020_\_Rabota_2020__\_Lanit____\info_lanit_2020_03_14__.txt" CompareCharacterize="--fulling-- compare | hash equal | byte equal | " Size="69630" Date="20.03.2020 17:12:03" BitError="0">data</data>
+  </records>
+  <records>
+    <data fileName="D:\_V2020_\_Rabota_2020__\_Lanit____\data__\UfdApi_Gen\CTL\28\BIN\28_2F_SDMAHSM.BIN" fileNameCompare="D:\_V2020_\_Rabota_2020__\_Lanit____\info_lanit_2020_03_14__.txt" CompareCharacterize="--fulling-- compare | hash equal | byte equal | " Size="69630" Date="20.03.2020 17:12:03" BitError="0">data</data>
+  </records>
+  <records>
+    <data fileName="D:\_V2020_\_Rabota_2020__\_Lanit____\data__\UfdApi_Gen\CTL\28\BIN\28_42_K9FAG.BIN" fileNameCompare="D:\_V2020_\_Rabota_2020__\_Lanit____\info_lanit_2020_03_14__.txt" CompareCharacterize="--fulling-- compare | hash equal | byte equal | " Size="69630" Date="20.03.2020 17:12:03" BitError="0">data</data>
+  </records>
+  <records>
+    <data fileName="D:\_V2020_\_Rabota_2020__\_Lanit____\data__\UfdApi_Gen\CTL\28\BIN\28_46_K9GCG_QP.BIN" fileNameCompare="D:\_V2020_\_Rabota_2020__\_Lanit____\info_lanit_2020_03_14__.txt" CompareCharacterize="--fulling-- compare | hash equal | byte equal | " Size="69630" Date="20.03.2020 17:12:03" BitError="0">data</data>
+  </records>
+  <records>
+    <data fileName="D:\_V2020_\_Rabota_2020__\_Lanit____\data__\UfdApi_Gen\CTL\28\BIN\28_6F_14nm_Hy_MLC.BIN" fileNameCompare="D:\_V2020_\_Rabota_2020__\_Lanit____\info_lanit_2020_03_14__.txt" CompareCharacterize="--fulling-- compare | hash equal | byte equal | " Size="69631" Date="20.03.2020 17:12:03" BitError="0">data</data>
+  </records>
+  <records>
+    <data fileName="D:\_V2020_\_Rabota_2020__\_Lanit____\data__\UfdApi_Gen\CTL\28\BIN\28_7E_SDMLC256_FP_15nm.BIN" fileNameCompare="D:\_V2020_\_Rabota_2020__\_Lanit____\info_lanit_2020_03_14__.txt" CompareCharacterize="--fulling-- compare | hash equal | byte equal | " Size="69631" Date="20.03.2020 17:12:03" BitError="0">data</data>
+  </records>
+  <records>
+    <data fileName="D:\_V2020_\_Rabota_2020__\_Lanit____\data__\UfdApi_Gen\CTL\28\BIN\36_MI_3D_MLC_L05B.BIN" fileNameCompare="D:\_V2020_\_Rabota_2020__\_Lanit____\info_lanit_2020_03_14__.txt" CompareCharacterize="--fulling-- compare | hash equal | byte equal | " Size="71807" Date="20.03.2020 17:12:03" BitError="0">data</data>
+  </records>
+  <records>
+    <data fileName="D:\_V2020_\_Rabota_2020__\_Lanit____\data__\UfdApi_Gen\CTL\28\DGD_BIN\28_16K_512_L85_A_B_04.bin" fileNameCompare="D:\_V2020_\_Rabota_2020__\_Lanit____\info_lanit_2020_03_14__.txt" CompareCharacterize="--fulling-- compare | hash equal | byte equal | " Size="95742" Date="20.03.2020 17:12:03" BitError="0">data</data>
+  </records>
+  <records>
+    <data fileName="D:\_V2020_\_Rabota_2020__\_Lanit____\data__\UfdApi_Gen\CTL\28\DGD_BIN\28_16K_SD16M_B_04.bin" fileNameCompare="D:\_V2020_\_Rabota_2020__\_Lanit____\info_lanit_2020_03_14__.txt" CompareCharacterize="--fulling-- compare | hash equal | byte equal | " Size="95742" Date="20.03.2020 17:12:03" BitError="0">data</data>
+  </records>
+  <records>
+    <data fileName="D:\_V2020_\_Rabota_2020__\_Lanit____\data__\UfdApi_Gen\CTL\28\DGD_BIN\28_16K_SD16M_DP_B_0C.bin" fileNameCompare="D:\_V2020_\_Rabota_2020__\_Lanit____\info_lanit_2020_03_14__.txt" CompareCharacterize="--fulling-- compare | hash equal | byte equal | " Size="95742" Date="20.03.2020 17:12:03" BitError="0">data</data>
+  </records>
+  <records>
+    <data fileName="D:\_V2020_\_Rabota_2020__\_Lanit____\data__\UfdApi_Gen\CTL\28\DGD_BIN\28_16K_SD19M_DP_A_B_0C.bin" fileNameCompare="D:\_V2020_\_Rabota_2020__\_Lanit____\info_lanit_2020_03_14__.txt" CompareCharacterize="--fulling-- compare | hash equal | byte equal | " Size="95742" Date="20.03.2020 17:12:03" BitError="0">data</data>
+  </records>
+  <records>
+    <data fileName="D:\_V2020_\_Rabota_2020__\_Lanit____\data__\UfdApi_Gen\CTL\28\DGD_BIN\28_16K_SD19M_DP_B_04.bin" fileNameCompare="D:\_V2020_\_Rabota_2020__\_Lanit____\info_lanit_2020_03_14__.txt" CompareCharacterize="--fulling-- compare | hash equal | byte equal | " Size="95742" Date="20.03.2020 17:12:03" BitError="0">data</data>
+  </records>
+  <records>
+    <data fileName="D:\_V2020_\_Rabota_2020__\_Lanit____\data__\UfdApi_Gen\CTL\28\DGD_BIN\28_16K_TOS16M.bin" fileNameCompare="D:\_V2020_\_Rabota_2020__\_Lanit____\info_lanit_2020_03_14__.txt" CompareCharacterize="--fulling-- compare | hash equal | byte equal | " Size="95742" Date="20.03.2020 17:12:03" BitError="0">data</data>
+  </records>
+  <records>
+    <data fileName="D:\_V2020_\_Rabota_2020__\_Lanit____\data__\UfdApi_Gen\CTL\28\DGD_BIN\28_16K_TOS16M_A.bin" fileNameCompare="D:\_V2020_\_Rabota_2020__\_Lanit____\info_lanit_2020_03_14__.txt" CompareCharacterize="--fulling-- compare | hash equal | byte equal | " Size="95742" Date="20.03.2020 17:12:03" BitError="0">data</data>
+  </records>
+  <records>
+    <data fileName="D:\_V2020_\_Rabota_2020__\_Lanit____\data__\UfdApi_Gen\CTL\28\DGD_BIN\28_16K_TOS16M_DP_B_04.bin" fileNameCompare="D:\_V2020_\_Rabota_2020__\_Lanit____\info_lanit_2020_03_14__.txt" CompareCharacterize="--fulling-- compare | hash equal | byte equal | " Size="95742" Date="20.03.2020 17:12:03" BitError="0">data</data>
+  </records>
+  <records>
+    <data fileName="D:\_V2020_\_Rabota_2020__\_Lanit____\data__\UfdApi_Gen\CTL\28\DGD_BIN\28_16K_TOS19M.bin" fileNameCompare="D:\_V2020_\_Rabota_2020__\_Lanit____\info_lanit_2020_03_14__.txt" CompareCharacterize="--fulling-- compare | hash equal | byte equal | " Size="95742" Date="20.03.2020 17:12:03" BitError="0">data</data>
+  </records>
+  <records>
+    <data fileName="D:\_V2020_\_Rabota_2020__\_Lanit____\data__\UfdApi_Gen\CTL\28\DGD_BIN\28_16K_TOS19M_A.bin" fileNameCompare="D:\_V2020_\_Rabota_2020__\_Lanit____\info_lanit_2020_03_14__.txt" CompareCharacterize="--fulling-- compare | hash equal | byte equal | " Size="95742" Date="20.03.2020 17:12:03" BitError="0">data</data>
+  </records>
+  <records>
+    <data fileName="D:\_V2020_\_Rabota_2020__\_Lanit____\data__\UfdApi_Gen\CTL\28\DGD_BIN\28_16K_UCG20.bin" fileNameCompare="D:\_V2020_\_Rabota_2020__\_Lanit____\info_lanit_2020_03_14__.txt" CompareCharacterize="--fulling-- compare | hash equal | byte equal | " Size="95742" Date="20.03.2020 17:12:03" BitError="0">data</data>
+  </records>
+  <records>
+    <data fileName="D:\_V2020_\_Rabota_2020__\_Lanit____\data__\UfdApi_Gen\CTL\28\DGD_BIN\28_16K_UCG20_A.bin" fileNameCompare="D:\_V2020_\_Rabota_2020__\_Lanit____\info_lanit_2020_03_14__.txt" CompareCharacterize="--fulling-- compare | hash equal | byte equal | " Size="95742" Date="20.03.2020 17:12:03" BitError="0">data</data>
+  </records>
+  <records>
+    <data fileName="D:\_V2020_\_Rabota_2020__\_Lanit____\data__\UfdApi_Gen\CTL\28\DGD_BIN\28_16K_UCG20_A_B_04.bin" fileNameCompare="D:\_V2020_\_Rabota_2020__\_Lanit____\info_lanit_2020_03_14__.txt" CompareCharacterize="--fulling-- compare | hash equal | byte equal | " Size="95742" Date="20.03.2020 17:12:03" BitError="0">data</data>
+  </records>
+  <records>
+    <data fileName="D:\_V2020_\_Rabota_2020__\_Lanit____\data__\UfdApi_Gen\CTL\28\DGD_BIN\28_16K_UCG20_B_04.bin" fileNameCompare="D:\_V2020_\_Rabota_2020__\_Lanit____\info_lanit_2020_03_14__.txt" CompareCharacterize="--fulling-- compare | hash equal | byte equal | " Size="95742" Date="20.03.2020 17:12:03" BitError="0">data</data>
+  </records>
+  <records>
+    <data fileName="D:\_V2020_\_Rabota_2020__\_Lanit____\data__\UfdApi_Gen\CTL\28\DGD_BIN\28_16K_UCG20_CB_A_B_04.bin" fileNameCompare="D:\_V2020_\_Rabota_2020__\_Lanit____\info_lanit_2020_03_14__.txt" CompareCharacterize="--fulling-- compare | hash equal | byte equal | " Size="95742" Date="20.03.2020 17:12:03" BitError="0">data</data>
+  </records>
+  <records>
+    <data fileName="D:\_V2020_\_Rabota_2020__\_Lanit____\data__\UfdApi_Gen\CTL\28\DGD_BIN\28_16K_UCG20_CB_B_04.bin" fileNameCompare="D:\_V2020_\_Rabota_2020__\_Lanit____\info_lanit_2020_03_14__.txt" CompareCharacterize="--fulling-- compare | hash equal | byte equal | " Size="95742" Date="20.03.2020 17:12:03" BitError="0">data</data>
+  </records>
+  <records>
+    <data fileName="D:\_V2020_\_Rabota_2020__\_Lanit____\data__\UfdApi_Gen\CTL\28\DGD_BIN\28_16K_UCG20_MW_A_B_04.bin" fileNameCompare="D:\_V2020_\_Rabota_2020__\_Lanit____\info_lanit_2020_03_14__.txt" CompareCharacterize="--fulling-- compare | hash equal | byte equal | " Size="95742" Date="20.03.2020 17:12:03" BitError="0">data</data>
+  </records>
+  <records>
+    <data fileName="D:\_V2020_\_Rabota_2020__\_Lanit____\data__\UfdApi_Gen\CTL\28\DGD_BIN\28_16K_UCG20_MW_B_04.bin" fileNameCompare="D:\_V2020_\_Rabota_2020__\_Lanit____\info_lanit_2020_03_14__.txt" CompareCharacterize="--fulling-- compare | hash equal | byte equal | " Size="95742" Date="20.03.2020 17:12:03" BitError="0">data</data>
+  </records>
+  <records>
+    <data fileName="D:\_V2020_\_Rabota_2020__\_Lanit____\data__\UfdApi_Gen\CTL\28\DGD_BIN\28_16K_UDG16.bin" fileNameCompare="D:\_V2020_\_Rabota_2020__\_Lanit____\info_lanit_2020_03_14__.txt" CompareCharacterize="--fulling-- compare | hash equal | byte equal | " Size="95742" Date="20.03.2020 17:12:03" BitError="0">data</data>
+  </records>
+  <records>
+    <data fileName="D:\_V2020_\_Rabota_2020__\_Lanit____\data__\UfdApi_Gen\CTL\28\DGD_BIN\28_16K_UDG16_A_B_04.bin" fileNameCompare="D:\_V2020_\_Rabota_2020__\_Lanit____\info_lanit_2020_03_14__.txt" CompareCharacterize="--fulling-- compare | hash equal | byte equal | " Size="95742" Date="20.03.2020 17:12:03" BitError="0">data</data>
+  </records>
+  <records>
+    <data fileName="D:\_V2020_\_Rabota_2020__\_Lanit____\data__\UfdApi_Gen\CTL\28\DGD_BIN\28_16K_UDG16_B_04.bin" fileNameCompare="D:\_V2020_\_Rabota_2020__\_Lanit____\info_lanit_2020_03_14__.txt" CompareCharacterize="--fulling-- compare | hash equal | byte equal | " Size="95742" Date="20.03.2020 17:12:03" BitError="0">data</data>
+  </records>
+  <records>
+    <data fileName="D:\_V2020_\_Rabota_2020__\_Lanit____\data__\UfdApi\UfdApi_X3\CTL\28\DGD_BIN\28_TOS24TH_eD3_04_ST.bin" fileNameCompare="D:\_V2020_\_Rabota_2020__\_Lanit____\info_lanit_2020_03_14__.txt" CompareCharacterize="--fulling-- compare | hash equal | byte equal | " Size="95742" Date="20.03.2020 17:12:03" BitError="0">data</data>
+  </records>
+  <records>
+    <data fileName="D:\_V2020_\_Rabota_2020__\_Lanit____\data__\UfdApi_Gen\CTL\28\DGD_BIN\28_16K_UEG16_B_04.bin" fileNameCompare="D:\_V2020_\_Rabota_2020__\_Lanit____\info_lanit_2020_03_14__.txt" CompareCharacterize="--fulling-- compare | hash equal | byte equal | " Size="95742" Date="20.03.2020 17:12:03" BitError="0">data</data>
+  </records>
+  <records>
+    <data fileName="D:\_V2020_\_Rabota_2020__\_Lanit____\data__\UfdApi_Gen\CTL\28\DGD_BIN\28_8K_512.BIN" fileNameCompare="D:\_V2020_\_Rabota_2020__\_Lanit____\info_lanit_2020_03_14__.txt" CompareCharacterize="--fulling-- compare | hash equal | byte equal | " Size="95742" Date="20.03.2020 17:12:03" BitError="0">data</data>
+  </records>
+  <records>
+    <data fileName="D:\_V2020_\_Rabota_2020__\_Lanit____\data__\UfdApi_Gen\CTL\28\DGD_BIN\28_8K_M_L84_04.bin" fileNameCompare="D:\_V2020_\_Rabota_2020__\_Lanit____\info_lanit_2020_03_14__.txt" CompareCharacterize="--fulling-- compare | hash equal | byte equal | " Size="95742" Date="20.03.2020 17:12:03" BitError="0">data</data>
+  </records>
+  <records>
+    <data fileName="D:\_V2020_\_Rabota_2020__\_Lanit____\data__\UfdApi_Gen\CTL\28\DGD_BIN\28_8K_M_L84_A_04.bin" fileNameCompare="D:\_V2020_\_Rabota_2020__\_Lanit____\info_lanit_2020_03_14__.txt" CompareCharacterize="--fulling-- compare | hash equal | byte equal | " Size="95742" Date="20.03.2020 17:12:03" BitError="0">data</data>
+  </records>
+  <records>
+    <data fileName="D:\_V2020_\_Rabota_2020__\_Lanit____\data__\UfdApi_Gen\CTL\28\DGD_BIN\28_8K_UBG20.bin" fileNameCompare="D:\_V2020_\_Rabota_2020__\_Lanit____\info_lanit_2020_03_14__.txt" CompareCharacterize="--fulling-- compare | hash equal | byte equal | " Size="95742" Date="20.03.2020 17:12:03" BitError="0">data</data>
+  </records>
+  <records>
+    <data fileName="D:\_V2020_\_Rabota_2020__\_Lanit____\data__\UfdApi_Gen\CTL\28\DGD_BIN\28_8K_UBG20_04.bin" fileNameCompare="D:\_V2020_\_Rabota_2020__\_Lanit____\info_lanit_2020_03_14__.txt" CompareCharacterize="--fulling-- compare | hash equal | byte equal | " Size="95742" Date="20.03.2020 17:12:03" BitError="0">data</data>
+  </records>
+  <records>
+    <data fileName="D:\_V2020_\_Rabota_2020__\_Lanit____\data__\UfdApi_Gen\CTL\28\DGD_BIN\28_8K_UBG20_A.bin" fileNameCompare="D:\_V2020_\_Rabota_2020__\_Lanit____\info_lanit_2020_03_14__.txt" CompareCharacterize="--fulling-- compare | hash equal | byte equal | " Size="95742" Date="20.03.2020 17:12:03" BitError="0">data</data>
+  </records>
+  <records>
+    <data fileName="D:\_V2020_\_Rabota_2020__\_Lanit____\data__\UfdApi_Gen\CTL\28\DGD_BIN\28_8K_UBG20_A_04.bin" fileNameCompare="D:\_V2020_\_Rabota_2020__\_Lanit____\info_lanit_2020_03_14__.txt" CompareCharacterize="--fulling-- compare | hash equal | byte equal | " Size="95742" Date="20.03.2020 17:12:03" BitError="0">data</data>
+  </records>
+  <records>
+    <data fileName="D:\_V2020_\_Rabota_2020__\_Lanit____\data__\UfdApi_Gen\CTL\28\DGD_BIN\28_8K_UCG20.bin" fileNameCompare="D:\_V2020_\_Rabota_2020__\_Lanit____\info_lanit_2020_03_14__.txt" CompareCharacterize="--fulling-- compare | hash equal | byte equal | " Size="95742" Date="20.03.2020 17:12:03" BitError="0">data</data>
+  </records>
+  <records>
+    <data fileName="D:\_V2020_\_Rabota_2020__\_Lanit____\data__\UfdApi_Gen\CTL\28\DGD_BIN\28_8K_UCG20_04.bin" fileNameCompare="D:\_V2020_\_Rabota_2020__\_Lanit____\info_lanit_2020_03_14__.txt" CompareCharacterize="--fulling-- compare | hash equal | byte equal | " Size="95742" Date="20.03.2020 17:12:03" BitError="0">data</data>
+  </records>
+  <records>
+    <data fileName="D:\_V2020_\_Rabota_2020__\_Lanit____\data__\UfdApi_Gen\CTL\28\DGD_BIN\28_8K_UCG20_A.bin" fileNameCompare="D:\_V2020_\_Rabota_2020__\_Lanit____\info_lanit_2020_03_14__.txt" CompareCharacterize="--fulling-- compare | hash equal | byte equal | " Size="95742" Date="20.03.2020 17:12:03" BitError="0">data</data>
+  </records>
+  <records>
+    <data fileName="D:\_V2020_\_Rabota_2020__\_Lanit____\data__\UfdApi_Gen\CTL\28\DGD_BIN\28_8K_UCG20_A_04.bin" fileNameCompare="D:\_V2020_\_Rabota_2020__\_Lanit____\info_lanit_2020_03_14__.txt" CompareCharacterize="--fulling-- compare | hash equal | byte equal | " Size="95742" Date="20.03.2020 17:12:03" BitError="0">data</data>
+  </records>
+  <records>
+    <data fileName="D:\_V2020_\_Rabota_2020__\_Lanit____\data__\UfdApi_Gen\CTL\28\BIN\28_22_THMLC256_TP_15nm.bin" fileNameCompare="D:\_V2020_\_Rabota_2020__\_Lanit____\info_lanit_2020_03_14__.txt" CompareCharacterize="--fulling-- compare | hash equal | byte equal | " Size="69630" Date="20.03.2020 17:12:03" BitError="0">data</data>
+  </records>
+  <records>
+    <data fileName="D:\_V2020_\_Rabota_2020__\_Lanit____\data__\UfdApi_Gen\CTL\28\DGD_BIN\28_HY16M_MW.BIN" fileNameCompare="D:\_V2020_\_Rabota_2020__\_Lanit____\info_lanit_2020_03_14__.txt" CompareCharacterize="--fulling-- compare | hash equal | byte equal | " Size="95742" Date="20.03.2020 17:12:03" BitError="0">data</data>
+  </records>
+  <records>
+    <data fileName="D:\_V2020_\_Rabota_2020__\_Lanit____\data__\UfdApi_Gen\CTL\28\DGD_BIN\28_HY20M.BIN" fileNameCompare="D:\_V2020_\_Rabota_2020__\_Lanit____\info_lanit_2020_03_14__.txt" CompareCharacterize="--fulling-- compare | hash equal | byte equal | " Size="95742" Date="20.03.2020 17:12:03" BitError="0">data</data>
+  </records>
+  <records>
+    <data fileName="D:\_V2020_\_Rabota_2020__\_Lanit____\data__\UfdApi_Gen\CTL\28\DGD_BIN\28_HY20M_CB.BIN" fileNameCompare="D:\_V2020_\_Rabota_2020__\_Lanit____\info_lanit_2020_03_14__.txt" CompareCharacterize="--fulling-- compare | hash equal | byte equal | " Size="95742" Date="20.03.2020 17:12:03" BitError="0">data</data>
+  </records>
+  <records>
+    <data fileName="D:\_V2020_\_Rabota_2020__\_Lanit____\data__\UfdApi_Gen\CTL\28\DGD_BIN\28_HY20M_MW.BIN" fileNameCompare="D:\_V2020_\_Rabota_2020__\_Lanit____\info_lanit_2020_03_14__.txt" CompareCharacterize="--fulling-- compare | hash equal | byte equal | " Size="95742" Date="20.03.2020 17:12:03" BitError="0">data</data>
+  </records>
+  <records>
+    <data fileName="D:\_V2020_\_Rabota_2020__\_Lanit____\data__\UfdApi_Gen\CTL\28\DGD_BIN\28_16K_SD19M_B_0C.bin" fileNameCompare="D:\_V2020_\_Rabota_2020__\_Lanit____\info_lanit_2020_03_14__.txt" CompareCharacterize="--fulling-- compare | hash equal | byte equal | " Size="95742" Date="20.03.2020 17:12:03" BitError="0">data</data>
+  </records>
+  <records>
+    <data fileName="D:\_V2020_\_Rabota_2020__\_Lanit____\data__\UfdApi_Gen\CTL\28\DGD_BIN\28_L85.BIN" fileNameCompare="D:\_V2020_\_Rabota_2020__\_Lanit____\info_lanit_2020_03_14__.txt" CompareCharacterize="--fulling-- compare | hash equal | byte equal | " Size="95742" Date="20.03.2020 17:12:03" BitError="0">data</data>
+  </records>
+  <records>
+    <data fileName="D:\_V2020_\_Rabota_2020__\_Lanit____\data__\UfdApi_Gen\CTL\28\DGD_BIN\28_S14M.BIN" fileNameCompare="D:\_V2020_\_Rabota_2020__\_Lanit____\info_lanit_2020_03_14__.txt" CompareCharacterize="--fulling-- compare | hash equal | byte equal | " Size="95743" Date="20.03.2020 17:12:03" BitError="0">data</data>
+  </records>
+  <records>
+    <data fileName="D:\_V2020_\_Rabota_2020__\_Lanit____\data__\UfdApi_Gen\CTL\28\DGD_BIN\28_S16M.BIN" fileNameCompare="D:\_V2020_\_Rabota_2020__\_Lanit____\info_lanit_2020_03_14__.txt" CompareCharacterize="--fulling-- compare | hash equal | byte equal | " Size="95742" Date="20.03.2020 17:12:03" BitError="0">data</data>
+  </records>
+  <records>
+    <data fileName="D:\_V2020_\_Rabota_2020__\_Lanit____\data__\UfdApi_Gen\CTL\28\DGD_BIN\28_S19M.BIN" fileNameCompare="D:\_V2020_\_Rabota_2020__\_Lanit____\info_lanit_2020_03_14__.txt" CompareCharacterize="--fulling-- compare | hash equal | byte equal | " Size="95742" Date="20.03.2020 17:12:03" BitError="0">data</data>
+  </records>
+  <records>
+    <data fileName="D:\_V2020_\_Rabota_2020__\_Lanit____\data__\UfdApi_Gen\CTL\28\DGD_BIN\28_S21M_04.bin" fileNameCompare="D:\_V2020_\_Rabota_2020__\_Lanit____\info_lanit_2020_03_14__.txt" CompareCharacterize="--fulling-- compare | hash equal | byte equal | " Size="95742" Date="20.03.2020 17:12:03" BitError="0">data</data>
+  </records>
+  <records>
+    <data fileName="D:\_V2020_\_Rabota_2020__\_Lanit____\data__\UfdApi_Gen\CTL\28\DGD_BIN\28_S32T.BIN" fileNameCompare="D:\_V2020_\_Rabota_2020__\_Lanit____\info_lanit_2020_03_14__.txt" CompareCharacterize="--fulling-- compare | hash equal | byte equal | " Size="95743" Date="20.03.2020 17:12:03" BitError="0">data</data>
+  </records>
+  <records>
+    <data fileName="D:\_V2020_\_Rabota_2020__\_Lanit____\data__\UfdApi_Gen\CTL\28\DGD_BIN\28_SD19MX_2P.BIN" fileNameCompare="D:\_V2020_\_Rabota_2020__\_Lanit____\info_lanit_2020_03_14__.txt" CompareCharacterize="--fulling-- compare | hash equal | byte equal | " Size="95742" Date="20.03.2020 17:12:03" BitError="0">data</data>
+  </records>
+  <records>
+    <data fileName="D:\_V2020_\_Rabota_2020__\_Lanit____\data__\UfdApi_Gen\CTL\28\DGD_BIN\28_SD24M_SM_A_04.bin" fileNameCompare="D:\_V2020_\_Rabota_2020__\_Lanit____\info_lanit_2020_03_14__.txt" CompareCharacterize="--fulling-- compare | hash equal | byte equal | " Size="95742" Date="20.03.2020 17:12:03" BitError="0">data</data>
+  </records>
+  <records>
+    <data fileName="D:\_V2020_\_Rabota_2020__\_Lanit____\data__\UfdApi_Gen\CTL\28\DGD_BIN\30_L85.BIN" fileNameCompare="D:\_V2020_\_Rabota_2020__\_Lanit____\info_lanit_2020_03_14__.txt" CompareCharacterize="--fulling-- compare | hash equal | byte equal | " Size="95742" Date="20.03.2020 17:12:03" BitError="0">data</data>
+  </records>
+  <records>
+    <data fileName="D:\_V2020_\_Rabota_2020__\_Lanit____\data__\UfdApi_Gen\CTL\28\DGD_BIN\36_HY20M.BIN" fileNameCompare="D:\_V2020_\_Rabota_2020__\_Lanit____\info_lanit_2020_03_14__.txt" CompareCharacterize="--fulling-- compare | hash equal | byte equal | " Size="95743" Date="20.03.2020 17:12:03" BitError="0">data</data>
+  </records>
+  <records>
+    <data fileName="D:\_V2020_\_Rabota_2020__\_Lanit____\data__\UfdApi_Gen\CTL\28\DGD_BIN\36_HY3DM0.BIN" fileNameCompare="D:\_V2020_\_Rabota_2020__\_Lanit____\info_lanit_2020_03_14__.txt" CompareCharacterize="--fulling-- compare | hash equal | byte equal | " Size="95743" Date="20.03.2020 17:12:03" BitError="0">data</data>
+  </records>
+  <records>
+    <data fileName="D:\_V2020_\_Rabota_2020__\_Lanit____\data__\UfdApi_Gen\CTL\28\DGD_BIN\36_L04A_CB.BIN" fileNameCompare="D:\_V2020_\_Rabota_2020__\_Lanit____\info_lanit_2020_03_14__.txt" CompareCharacterize="--fulling-- compare | hash equal | byte equal | " Size="95742" Date="20.03.2020 17:12:03" BitError="0">data</data>
+  </records>
+  <records>
+    <data fileName="D:\_V2020_\_Rabota_2020__\_Lanit____\data__\UfdApi_Gen\CTL\28\DGD_BIN\36_MI3DV0_X3.BIN" fileNameCompare="D:\_V2020_\_Rabota_2020__\_Lanit____\info_lanit_2020_03_14__.txt" CompareCharacterize="--fulling-- compare | hash equal | byte equal | " Size="95743" Date="20.03.2020 17:12:03" BitError="0">data</data>
+  </records>
+  <records>
+    <data fileName="D:\_V2020_\_Rabota_2020__\_Lanit____\data__\UfdApi_Gen\CTL\28\DGD_BIN_OLD\28_16K_UCG20_CB.bin" fileNameCompare="D:\_V2020_\_Rabota_2020__\_Lanit____\info_lanit_2020_03_14__.txt" CompareCharacterize="--fulling-- compare | hash equal | byte equal | " Size="95742" Date="20.03.2020 17:12:03" BitError="0">data</data>
+  </records>
+  <records>
+    <data fileName="D:\_V2020_\_Rabota_2020__\_Lanit____\data__\UfdApi_Gen\CTL\28\DGD_BIN_OLD\28_16K_UCG20_MW_A.bin" fileNameCompare="D:\_V2020_\_Rabota_2020__\_Lanit____\info_lanit_2020_03_14__.txt" CompareCharacterize="--fulling-- compare | hash equal | byte equal | " Size="95742" Date="20.03.2020 17:12:03" BitError="0">data</data>
+  </records>
+  <records>
+    <data fileName="D:\_V2020_\_Rabota_2020__\_Lanit____\data__\UfdApi_Gen\CTL\28\DGD_BIN_OLD\28_8K_L84.bin" fileNameCompare="D:\_V2020_\_Rabota_2020__\_Lanit____\info_lanit_2020_03_14__.txt" CompareCharacterize="--fulling-- compare | hash equal | byte equal | " Size="95742" Date="20.03.2020 17:12:03" BitError="0">data</data>
+  </records>
+  <records>
+    <data fileName="D:\_V2020_\_Rabota_2020__\_Lanit____\data__\UfdApi_Gen\CTL\10\DGD_BIN\10_8K_DDR_04.bin" fileNameCompare="D:\_V2020_\_Rabota_2020__\_Lanit____\info_lanit_2020_03_14__.txt" CompareCharacterize="--fulling-- compare | hash equal | byte equal | " Size="43518" Date="20.03.2020 17:12:03" BitError="0">data</data>
+  </records>
+  <records>
+    <data fileName="D:\_V2020_\_Rabota_2020__\_Lanit____\data__\UfdApi_Gen\CTL\28\DGD_BIN_OLD\28_8K_UCG26.bin" fileNameCompare="D:\_V2020_\_Rabota_2020__\_Lanit____\info_lanit_2020_03_14__.txt" CompareCharacterize="--fulling-- compare | hash equal | byte equal | " Size="95742" Date="20.03.2020 17:12:03" BitError="0">data</data>
+  </records>
+  <records>
+    <data fileName="D:\_V2020_\_Rabota_2020__\_Lanit____\data__\UfdApi_Gen\CTL\28\DGD_BIN_OLD\28_S21M_A.bin" fileNameCompare="D:\_V2020_\_Rabota_2020__\_Lanit____\info_lanit_2020_03_14__.txt" CompareCharacterize="--fulling-- compare | hash equal | byte equal | " Size="95742" Date="20.03.2020 17:12:03" BitError="0">data</data>
+  </records>
+  <records>
+    <data fileName="D:\_V2020_\_Rabota_2020__\_Lanit____\data__\UfdApi_Gen\CTL\28\SCAN_BIN\28_LB_HLF.BIN" fileNameCompare="D:\_V2020_\_Rabota_2020__\_Lanit____\info_lanit_2020_03_14__.txt" CompareCharacterize="--fulling-- compare | hash equal | byte equal | " Size="26110" Date="20.03.2020 17:12:03" BitError="0">data</data>
+  </records>
+  <records>
+    <data fileName="D:\_V2020_\_Rabota_2020__\_Lanit____\data__\UfdApi_Gen\CTL\A0\SCAN_BIN\A0_LB_SCAN_READ_N.bin" fileNameCompare="D:\_V2020_\_Rabota_2020__\_Lanit____\info_lanit_2020_03_14__.txt" CompareCharacterize="--fulling-- compare | hash equal | byte equal | " Size="8192" Date="20.03.2020 17:12:03" BitError="0">data</data>
+  </records>
+  <records>
+    <data fileName="D:\_V2020_\_Rabota_2020__\_Lanit____\data__\Каталоги уровня 3\ALCOR_U2_MP_v19.01.24.00\UfdApi\UfdApi_Gen\CTL\28\SCAN_BIN\28_LB_SCAN_TOS_3D.BIN" fileNameCompare="D:\_V2020_\_Rabota_2020__\_Lanit____\info_lanit_2020_03_14__.txt" CompareCharacterize="--fulling-- compare | hash equal | byte equal | " Size="26110" Date="20.03.2020 17:12:03" BitError="0">data</data>
+  </records>
+  <records>
+    <data fileName="D:\_V2020_\_Rabota_2020__\_Lanit____\data__\Каталоги уровня 3\ALCOR_U2_MP_v19.01.24.00\UfdApi\UfdApi_X3\CTL\28\DGD_BIN\28_Samsung14_LS_04.bin" fileNameCompare="D:\_V2020_\_Rabota_2020__\_Lanit____\info_lanit_2020_03_14__.txt" CompareCharacterize="--fulling-- compare | hash equal | byte equal | " Size="95743" Date="20.03.2020 17:12:03" BitError="0">data</data>
+  </records>
+  <records>
+    <data fileName="D:\_V2020_\_Rabota_2020__\_Lanit____\data__\UfdApi_Gen\CTL\28\DGD_BIN_OLD\28_8K_UBG20_A_04.bin" fileNameCompare="D:\_V2020_\_Rabota_2020__\_Lanit____\info_lanit_2020_03_14__.txt" CompareCharacterize="--fulling-- compare | hash equal | byte equal | " Size="95742" Date="20.03.2020 17:12:03" BitError="0">data</data>
+  </records>
+  <records>
+    <data fileName="D:\_V2020_\_Rabota_2020__\_Lanit____\data__\Каталоги уровня 3\ALCOR_U2_MP_v19.01.24.00\UfdApi\UfdApi_X3\CTL\28\SCAN_BIN\28_S21_TLC.BIN" fileNameCompare="D:\_V2020_\_Rabota_2020__\_Lanit____\info_lanit_2020_03_14__.txt" CompareCharacterize="--fulling-- compare | hash equal | byte equal | " Size="26110" Date="20.03.2020 17:12:03" BitError="0">data</data>
+  </records>
+  <records>
+    <data fileName="D:\_V2020_\_Rabota_2020__\_Lanit____\data__\Каталоги уровня 3\ALCOR_U2_MP_v19.03.19.00_8T23 9T23\UfdApi\UfdApi_X3\CTL\28\SCAN_BIN\28_MIC3D_N18A_TLC_MP_EX.BIN" fileNameCompare="D:\_V2020_\_Rabota_2020__\_Lanit____\info_lanit_2020_03_14__.txt" CompareCharacterize="--fulling-- compare | hash equal | byte equal | " Size="26110" Date="20.03.2020 17:12:03" BitError="0">data</data>
+  </records>
+  <records>
+    <data fileName="D:\_V2020_\_Rabota_2020__\_Lanit____\data__\Каталоги уровня 3\ALCOR_U2_MP_v19.04.01.00\UfdApi\UfdApi_Gen\CTL\28\DGD_BIN\36_L06B_CB_1P.BIN" fileNameCompare="D:\_V2020_\_Rabota_2020__\_Lanit____\info_lanit_2020_03_14__.txt" CompareCharacterize="--fulling-- compare | hash equal | byte equal | " Size="113150" Date="20.03.2020 17:12:03" BitError="0">data</data>
+  </records>
+  <records>
+    <data fileName="D:\_V2020_\_Rabota_2020__\_Lanit____\data__\Каталоги уровня 3\ALCOR_U2_MP_v19.04.01.00\UfdApi\UfdApi_X3\CTL\28\SCAN_BIN\28_HY16_TLC_LLF.BIN" fileNameCompare="D:\_V2020_\_Rabota_2020__\_Lanit____\info_lanit_2020_03_14__.txt" CompareCharacterize="--fulling-- compare | hash equal | byte equal | " Size="26110" Date="20.03.2020 17:12:03" BitError="0">data</data>
+  </records>
+  <records>
+    <data fileName="D:\_V2020_\_Rabota_2020__\_Lanit____\data__\Каталоги уровня 3\ALCOR_U2_MP_v19.04.15.00_B16A B17A\UfdApi\UfdApi_X3\CTL\28\SCAN_BIN\28_TOS3D_eD3.BIN" fileNameCompare="D:\_V2020_\_Rabota_2020__\_Lanit____\info_lanit_2020_03_14__.txt" CompareCharacterize="--fulling-- compare | hash equal | byte equal | " Size="26110" Date="20.03.2020 17:12:03" BitError="0">data</data>
+  </records>
+  <records>
+    <data fileName="D:\_V2020_\_Rabota_2020__\_Lanit____\data__\Каталоги уровня 3\ALCOR_U2_MP_v19.07.03.00\UfdApi\UfdApi_Gen\CTL\28\DGD_BIN\28_L85.BIN" fileNameCompare="D:\_V2020_\_Rabota_2020__\_Lanit____\info_lanit_2020_03_14__.txt" CompareCharacterize="--fulling-- compare | hash equal | byte equal | " Size="95742" Date="20.03.2020 17:12:03" BitError="0">data</data>
+  </records>
+  <records>
+    <data fileName="D:\_V2020_\_Rabota_2020__\_Lanit____\data__\Каталоги уровня 3\ALCOR_U2_MP_v19.07.03.00\UfdApi\UfdApi_Gen\CTL\28\DGD_BIN\28_TS24M.BIN" fileNameCompare="D:\_V2020_\_Rabota_2020__\_Lanit____\info_lanit_2020_03_14__.txt" CompareCharacterize="--fulling-- compare | hash equal | byte equal | " Size="95743" Date="20.03.2020 17:12:03" BitError="0">data</data>
+  </records>
+  <records>
+    <data fileName="D:\_V2020_\_Rabota_2020__\_Lanit____\data__\Каталоги уровня 3\ALCOR_U2_MP_v19.07.03.00\UfdApi\UfdApi_X3\CTL\28\BIN\36_MI_3D_QLC_N18A.BIN" fileNameCompare="D:\_V2020_\_Rabota_2020__\_Lanit____\info_lanit_2020_03_14__.txt" CompareCharacterize="--fulling-- compare | hash equal | byte equal | " Size="89217" Date="20.03.2020 17:12:03" BitError="0">data</data>
+  </records>
+  <records>
+    <data fileName="D:\_V2020_\_Rabota_2020__\_Lanit____\data__\Каталоги уровня 3\ALCOR_U2_MP_v19.07.03.00\UfdApi\UfdApi_X3\CTL\28\SCAN_BIN\28_HY3D_TLC.BIN" fileNameCompare="D:\_V2020_\_Rabota_2020__\_Lanit____\info_lanit_2020_03_14__.txt" CompareCharacterize="--fulling-- compare | hash equal | byte equal | " Size="26110" Date="20.03.2020 17:12:03" BitError="0">data</data>
+  </records>
+  <records>
+    <data fileName="D:\_V2020_\_Rabota_2020__\_Lanit____\data__\Каталоги уровня 3\ALCOR_U2_MP_v19.07.03.00\UfdApi\UfdApi_X3\CTL\28\SCAN_BIN\28_MIC3D_B27B_TLC_LLF_EX.BIN" fileNameCompare="D:\_V2020_\_Rabota_2020__\_Lanit____\info_lanit_2020_03_14__.txt" CompareCharacterize="--fulling-- compare | hash equal | byte equal | " Size="26110" Date="20.03.2020 17:12:03" BitError="0">data</data>
+  </records>
+  <records>
+    <data fileName="D:\_V2020_\_Rabota_2020__\_Lanit____\data__\Каталоги уровня 3\ALCOR_U2_MP_v19.07.03.00\UfdApi\UfdApi_X3\CTL\28\SCAN_BIN\28_TOS24_eD3_LLF.BIN" fileNameCompare="D:\_V2020_\_Rabota_2020__\_Lanit____\info_lanit_2020_03_14__.txt" CompareCharacterize="--fulling-- compare | hash equal | byte equal | " Size="26110" Date="20.03.2020 17:12:03" BitError="0">data</data>
+  </records>
+  <records>
+    <data fileName="D:\_V2020_\_Rabota_2020__\_Lanit____\data__\UfdApi_Gen\CTL\28\DGD_BIN\28_HY26M_MW.BIN" fileNameCompare="D:\_V2020_\_Rabota_2020__\_Lanit____\info_lanit_2020_03_14__.txt" CompareCharacterize="--fulling-- compare | hash equal | byte equal | " Size="95742" Date="20.03.2020 17:12:03" BitError="0">data</data>
+  </records>
+</table>
