@@ -13,10 +13,14 @@ D:\_V2020_\_Rabota_2020__\_Lanit____\SearchWindowsForms\SearchWindowsForms\bin\D
 D:\_V2020_\_Rabota_2020__\_Lanit____\SearchWindowsForms\SearchWindowsForms\bin\Debug\nunit.framework.xml
 D:\_V2020_\_Rabota_2020__\_Lanit____\SearchWindowsForms\SearchWindowsForms\bin\Debug\System.ValueTuple.xml
 D:\_V2020_\_Rabota_2020__\_Lanit____\SearchWindowsForms\SearchWindowsForms\obj\Debug\SearchWindowsForms.csprojAssemblyReference.cache
+D:\_V2020_\_Rabota_2020__\_Lanit____\SearchWindowsForms\SearchWindowsForms\obj\Debug\SearchWindowsForms.Report.resources
+D:\_V2020_\_Rabota_2020__\_Lanit____\SearchWindowsForms\SearchWindowsForms\obj\Debug\SearchWindowsForms.SearchFile.resources
 D:\_V2020_\_Rabota_2020__\_Lanit____\SearchWindowsForms\SearchWindowsForms\obj\Debug\SearchWindowsForms.Properties.Resources.resources
 D:\_V2020_\_Rabota_2020__\_Lanit____\SearchWindowsForms\SearchWindowsForms\obj\Debug\SearchWindowsForms.csproj.GenerateResource.cache
 D:\_V2020_\_Rabota_2020__\_Lanit____\SearchWindowsForms\SearchWindowsForms\obj\Debug\SearchWindowsForms.csproj.CopyComplete
 D:\_V2020_\_Rabota_2020__\_Lanit____\SearchWindowsForms\SearchWindowsForms\obj\Debug\SearchWindowsForms.exe
 D:\_V2020_\_Rabota_2020__\_Lanit____\SearchWindowsForms\SearchWindowsForms\obj\Debug\SearchWindowsForms.pdb
-D:\_V2020_\_Rabota_2020__\_Lanit____\SearchWindowsForms\SearchWindowsForms\obj\Debug\SearchWindowsForms.Report.resources
-D:\_V2020_\_Rabota_2020__\_Lanit____\SearchWindowsForms\SearchWindowsForms\obj\Debug\SearchWindowsForms.SearchFile.resources
+D:\_V2020_\_Rabota_2020__\_Lanit____\SearchWindowsForms\SearchWindowsForms\bin\Debug\Ookii.Dialogs.WinForms.dll
+D:\_V2020_\_Rabota_2020__\_Lanit____\SearchWindowsForms\SearchWindowsForms\bin\Debug\Ookii.Dialogs.WinForms.pdb
+D:\_V2020_\_Rabota_2020__\_Lanit____\SearchWindowsForms\SearchWindowsForms\bin\Debug\Ookii.Dialogs.WinForms.xml
+D:\_V2020_\_Rabota_2020__\_Lanit____\SearchWindowsForms\SearchWindowsForms\bin\Debug\nl\Ookii.Dialogs.WinForms.resources.dll

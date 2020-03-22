@@ -46,6 +46,8 @@
             this.label1 = new System.Windows.Forms.Label();
             this.label2 = new System.Windows.Forms.Label();
             this.progressBar1 = new System.Windows.Forms.ProgressBar();
+            this._sampleProgressDialog = new Ookii.Dialogs.WinForms.ProgressDialog(this.components);
+
             this.label3 = new System.Windows.Forms.Label();
             this.checkBox_Bytes = new System.Windows.Forms.CheckBox();
             this.checkBox_Hash = new System.Windows.Forms.CheckBox();
@@ -212,6 +214,17 @@
             this.progressBar1.Name = "progressBar1";
             this.progressBar1.Size = new System.Drawing.Size(837, 27);
             this.progressBar1.TabIndex = 30;
+
+            // 
+            // _sampleProgressDialog
+            // 
+            this._sampleProgressDialog.Description = "Processing...";
+            this._sampleProgressDialog.ShowTimeRemaining = true;
+            this._sampleProgressDialog.Text = "This is a sample progress dialog...";
+            this._sampleProgressDialog.WindowTitle = "Progress dialog sample";
+            this._sampleProgressDialog.DoWork += new System.ComponentModel.DoWorkEventHandler(this._sampleProgressDialog_DoWork);
+
+
             // 
             // label3
             // 
@@ -321,6 +334,7 @@
             this.buttonTreeIndikator.TabIndex = 40;
             this.buttonTreeIndikator.Text = "tree";
             this.buttonTreeIndikator.UseVisualStyleBackColor = false;
+            this.buttonTreeIndikator.Click += new System.EventHandler(this.buttonTreeIndikator_Click);
             // 
             // SearchFile
             // 
@@ -394,6 +408,8 @@
         private System.Windows.Forms.Timer timer1;
         private System.Windows.Forms.ListBox _lbAnser;
         private System.Windows.Forms.Button buttonTreeIndikator;
+
+        private Ookii.Dialogs.WinForms.ProgressDialog _sampleProgressDialog;
     }
 }
 

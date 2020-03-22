@@ -16,7 +16,7 @@ using System.Threading;
 
 namespace SearchWindowsForms
 {
-    public partial class SearchFile : Form, IMainView
+    public partial class SearchFile : Ookii.Dialogs.WinForms.ExtendedForm, IMainView
     {
         private readonly ApplicationContext _context;        
         MonitorSearch ms=null;
@@ -210,6 +210,35 @@ namespace SearchWindowsForms
         {
             mc.StopAll();
             Thread.Sleep(1000);
-        }        
+        }
+
+        private void buttonTreeIndikator_Click(object sender, EventArgs e)
+        {
+            ShowProgressDialog();
+        }
+
+        private void ShowProgressDialog()
+        {
+            if (_sampleProgressDialog.IsBusy)
+                MessageBox.Show(this, "The progress dialog is already displayed.", "Progress dialog sample");
+            else
+                _sampleProgressDialog.Show(this); // Show a modeless dialog; this is the recommended mode of operation for a progress dialog.
+        }
+
+        private void _sampleProgressDialog_DoWork(object sender, DoWorkEventArgs e)
+        {
+            // Implement the operation that the progress bar is showing progress of here, same as you would do with a background worker.
+            for (int x = 0; x <= 100; ++x)
+            {
+                Thread.Sleep(500);
+                // Periodically check CancellationPending and abort the operation if required.
+                if (_sampleProgressDialog.CancellationPending)
+                    return;
+                // ReportProgress can also modify the main text and description; pass null to leave them unchanged.
+                // If _sampleProgressDialog.ShowTimeRemaining is set to true, the time will automatically be calculated based on
+                // the frequency of the calls to ReportProgress.
+                _sampleProgressDialog.ReportProgress(x, null, string.Format(System.Globalization.CultureInfo.CurrentCulture, "Processing: {0}%", x));
+            }
+        }
     }
 }

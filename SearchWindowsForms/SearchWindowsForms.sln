@@ -7,6 +7,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SearchWindowsForms", "Searc
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProjectSearchCompareFiles", "..\ProjectSearchCompareFiles\ConsoleApp1\ProjectSearchCompareFiles.csproj", "{CB6B41A7-5D55-41D5-B5D0-612FC7E3C7A2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ookii.Dialogs.WinForms", "..\src\Ookii.Dialogs.WinForms\Ookii.Dialogs.WinForms.csproj", "{779E62B3-C5A6-494D-9D87-96C0DEC7FFB0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ookii.Dialogs.WinForms.Sample", "..\sample\Ookii.Dialogs.WinForms.Sample\Ookii.Dialogs.WinForms.Sample.csproj", "{D52F3B1C-03B3-41B1-A15E-E23FF6877939}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -31,6 +35,22 @@ Global
 		{CB6B41A7-5D55-41D5-B5D0-612FC7E3C7A2}.Release|Any CPU.Build.0 = Release|Any CPU
 		{CB6B41A7-5D55-41D5-B5D0-612FC7E3C7A2}.Release|x86.ActiveCfg = Release|Any CPU
 		{CB6B41A7-5D55-41D5-B5D0-612FC7E3C7A2}.Release|x86.Build.0 = Release|Any CPU
+		{779E62B3-C5A6-494D-9D87-96C0DEC7FFB0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{779E62B3-C5A6-494D-9D87-96C0DEC7FFB0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{779E62B3-C5A6-494D-9D87-96C0DEC7FFB0}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{779E62B3-C5A6-494D-9D87-96C0DEC7FFB0}.Debug|x86.Build.0 = Debug|Any CPU
+		{779E62B3-C5A6-494D-9D87-96C0DEC7FFB0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{779E62B3-C5A6-494D-9D87-96C0DEC7FFB0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{779E62B3-C5A6-494D-9D87-96C0DEC7FFB0}.Release|x86.ActiveCfg = Release|Any CPU
+		{779E62B3-C5A6-494D-9D87-96C0DEC7FFB0}.Release|x86.Build.0 = Release|Any CPU
+		{D52F3B1C-03B3-41B1-A15E-E23FF6877939}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D52F3B1C-03B3-41B1-A15E-E23FF6877939}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D52F3B1C-03B3-41B1-A15E-E23FF6877939}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{D52F3B1C-03B3-41B1-A15E-E23FF6877939}.Debug|x86.Build.0 = Debug|Any CPU
+		{D52F3B1C-03B3-41B1-A15E-E23FF6877939}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D52F3B1C-03B3-41B1-A15E-E23FF6877939}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D52F3B1C-03B3-41B1-A15E-E23FF6877939}.Release|x86.ActiveCfg = Release|Any CPU
+		{D52F3B1C-03B3-41B1-A15E-E23FF6877939}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -124,6 +124,10 @@
       <Project>{cb6b41a7-5d55-41d5-b5d0-612fc7e3c7a2}</Project>
       <Name>ProjectSearchCompareFiles</Name>
     </ProjectReference>
+    <ProjectReference Include="..\..\src\Ookii.Dialogs.WinForms\Ookii.Dialogs.WinForms.csproj">
+      <Project>{779e62b3-c5a6-494d-9d87-96c0dec7ffb0}</Project>
+      <Name>Ookii.Dialogs.WinForms</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">
